@@ -23,7 +23,12 @@ Here are some ideas to get you started:
 
 [for-dict](https://github.com/grt-pretender/for-dict/) | Tool for text preparation (voice recording)
 
+[yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game in Rust for memorizing Turkish verb forms
+<!--
+
 [yeni-hitit](https://github.com/grt-pretender/yeni-hitit/) | Studying Turkish: my Anki cards, notes and related scripts
+
+-->
 
 
 ## My current/previous studies & coding challenges
