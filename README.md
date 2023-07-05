@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 
 [chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generation for social media using Chekhov`s letters
 
+[yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game in Rust for memorizing Turkish verb forms
+
 [randizer](https://github.com/grt-pretender/randizer/) | Tool for practicing improvisation (for musicians)
 
 [keyword-classifier](https://github.com/grt-pretender/keyword-classifier/) | Tool for making glossaries (patent documentation)
 
 [for-dict](https://github.com/grt-pretender/for-dict/) | Tool for text preparation (voice recording)
 
-[yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game in Rust for memorizing Turkish verb forms
+
 <!--
-
 [yeni-hitit](https://github.com/grt-pretender/yeni-hitit/) | Studying Turkish: my Anki cards, notes and related scripts
-
 -->
 
 
