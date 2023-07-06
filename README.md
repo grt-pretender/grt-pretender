@@ -37,10 +37,9 @@ Here are some ideas to get you started:
 
 [reading-sicp](https://github.com/grt-pretender/reading-sicp/) | Solutions to some exercises from "Structure and Interpretation of Computer Programs"
 
-[leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/) | Using Python & Rust
+[leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/) | Using Python, Rust & Go
 
 [advent-of-code](https://github.com/grt-pretender/advent-of-code/) | Using Python & Rust
-
+<!--
 [genuary-2021](https://github.com/grt-pretender/genuary-2021/) | Entries for generative art challenge
-
-
+-->
