@@ -21,11 +21,14 @@ Here are some ideas to get you started:
 
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Tool for exploring sport TV channel playlist
 
-[keyword-classifier](https://github.com/grt-pretender/keyword-classifier/) | Tool for making glossaries (patent documentation)
+[mist-gen](https://github.com/grt-pretender/mist-gen) | Tool for generating texts with mistakes (for nlp testing / test assignments)
+
+[keyword-classifier](https://github.com/grt-pretender/keyword-classifier/) | Glossary generator (patent documentation)
+
+<!--
 
 [chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generation for social media using Chekhov`s letters
 
-<!--
 [for-dict](https://github.com/grt-pretender/for-dict/) | Tool for text preparation (voice recording)
 
 [yeni-hitit](https://github.com/grt-pretender/yeni-hitit/) | Studying Turkish: my Anki cards, notes and related scripts
