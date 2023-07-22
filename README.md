@@ -39,17 +39,21 @@ gr8pretender
 
 [yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game in Rust for memorizing Turkish verb forms
 
-[randizer](https://github.com/grt-pretender/randizer/) | Tool for practicing improvisation (for musicians)
+[randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation (for musicians)
 
-[mist-gen](https://github.com/grt-pretender/mist-gen) | Tool for generating texts with mistakes (for nlp testing / job interview assignments)
+[sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
+
+[scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for data scrambling
 
 [keyword-classifier](https://github.com/grt-pretender/keyword-classifier/) | Glossary generator (patent documentation)
 
-[sport-scraper](https://github.com/grt-pretender/sport-scraper) | Tool for exploring sport TV channel playlist
+[mist-gen](https://github.com/grt-pretender/mist-gen) | Tool for generating texts with mistakes (for nlp testing / job interview assignments)
+
+
+<!--
 
 [chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generation for social media using Chekhov`s letters
 
-<!--
 
 [for-dict](https://github.com/grt-pretender/for-dict/) | Tool for text preparation (voice recording)
 
