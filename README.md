@@ -49,11 +49,9 @@ gr8pretender
 
 [mist-gen](https://github.com/grt-pretender/mist-gen) | Tool for generating texts with mistakes (for nlp testing / job interview assignments)
 
-
-<!--
-
 [chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generation for social media using Chekhov`s letters
 
+<!--
 
 [for-dict](https://github.com/grt-pretender/for-dict/) | Tool for text preparation (voice recording)
 
