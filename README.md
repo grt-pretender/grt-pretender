@@ -43,7 +43,7 @@ gr8pretender
 
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
 
-[scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for data scrambling
+[scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for data scrambling using Go
 
 [keyword-classifier](https://github.com/grt-pretender/keyword-classifier/) | Glossary generator (patent documentation)
 
