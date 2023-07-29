@@ -43,17 +43,17 @@ gr8pretender
 
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
 
-[scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for data scrambling using Go
+[mist-gen](https://github.com/grt-pretender/mist-gen) | Tool for generating texts with mistakes (for nlp testing / job interview assignments)
 
 [keyword-classifier](https://github.com/grt-pretender/keyword-classifier/) | Glossary generator (patent documentation)
-
-[mist-gen](https://github.com/grt-pretender/mist-gen) | Tool for generating texts with mistakes (for nlp testing / job interview assignments)
 
 [chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generation for social media using Chekhov`s letters
 
 <!--
 
 [for-dict](https://github.com/grt-pretender/for-dict/) | Tool for text preparation (voice recording)
+
+[scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for data scrambling using Go
 
 [yeni-hitit](https://github.com/grt-pretender/yeni-hitit/) | Studying Turkish: my Anki cards, notes and related scripts
 -->
