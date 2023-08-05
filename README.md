@@ -73,8 +73,8 @@ gr8pretender
 
 [leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/) | Using Python, Rust & Go
 
-[yeni-hitit](https://github.com/grt-pretender/yeni-hitit/) | My journey through Turkish language
-
 <!--
 [genuary-2021](https://github.com/grt-pretender/genuary-2021/) | Entries for generative art challenge
+
+[yeni-hitit](https://github.com/grt-pretender/yeni-hitit/) | My journey through Turkish language
 -->
