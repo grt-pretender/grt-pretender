@@ -41,6 +41,8 @@ gr8pretender
 
 [randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation (for musicians)
 
+[scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for data scrambling using Go
+
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
 
 [mist-gen](https://github.com/grt-pretender/mist-gen) | Tool for generating texts with mistakes (for nlp testing / job interview assignments)
@@ -51,14 +53,13 @@ gr8pretender
 
 [for-dict](https://github.com/grt-pretender/for-dict/) | Tool for text preparation (voice recording)
 
-[scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for data scrambling using Go
-
 [yeni-hitit](https://github.com/grt-pretender/yeni-hitit/) | Studying Turkish: my Anki cards, notes and related scripts
 
 [reading-sicp](https://github.com/grt-pretender/reading-sicp/) | Solutions to some exercises from "Structure and Interpretation of Computer Programs"
 
 [keyword-classifier](https://github.com/grt-pretender/keyword-classifier/) | Glossary generator (patent documentation)
 
+[fastai-exercises](https://github.com/grt-pretender/fastai-exercises/) | Exercises for Practical Deep Learning for Coders by Jeremy Howard
 -->
 
 
@@ -67,13 +68,12 @@ gr8pretender
 
 ## My studies & coding challenges
 
-[fastai-exercises](https://github.com/grt-pretender/fastai-exercises/) | Exercises for Practical Deep Learning for Coders by Jeremy Howard
-
-[leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/) | Using Python, Rust & Go
+[advent-of-code](https://github.com/grt-pretender/advent-of-code/) | Using Python & Rust
 
 [codewars-jam](https://github.com/grt-pretender/codewars-jam/) | Using Python, Rust & Go
 
-[advent-of-code](https://github.com/grt-pretender/advent-of-code/) | Using Python & Rust
+[leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/) | Using Python, Rust & Go
+
 <!--
 [genuary-2021](https://github.com/grt-pretender/genuary-2021/) | Entries for generative art challenge
 -->
