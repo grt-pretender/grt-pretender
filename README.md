@@ -68,13 +68,14 @@ gr8pretender
 
 ## My studies & coding challenges
 
-[modelland](https://github.com/grt-pretender/modelland/) | Tool for text preparation (voice recording)
+[modelland](https://github.com/grt-pretender/modelland/) | A collection of my ML models, different cases
 
 [advent-of-code](https://github.com/grt-pretender/advent-of-code/) | Using Python & Rust
 
 [codewars-jam](https://github.com/grt-pretender/codewars-jam/) | Using Python, Rust & Go
 
 [leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/) | Using Python, Rust & Go
+
 
 <!--
 [genuary-2021](https://github.com/grt-pretender/genuary-2021/) | Entries for generative art challenge
