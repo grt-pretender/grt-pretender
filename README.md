@@ -53,8 +53,6 @@ gr8pretender
 
 [for-dict](https://github.com/grt-pretender/for-dict/) | Tool for text preparation (voice recording)
 
-[yeni-hitit](https://github.com/grt-pretender/yeni-hitit/) | Studying Turkish: my Anki cards, notes and related scripts
-
 [reading-sicp](https://github.com/grt-pretender/reading-sicp/) | Solutions to some exercises from "Structure and Interpretation of Computer Programs"
 
 [keyword-classifier](https://github.com/grt-pretender/keyword-classifier/) | Glossary generator (patent documentation)
@@ -65,8 +63,7 @@ gr8pretender
 
 
 
-
-## My studies & coding challenges
+## My studies & challenges
 
 [modelland](https://github.com/grt-pretender/modelland/) | A collection of my ML models, different cases
 
@@ -76,6 +73,7 @@ gr8pretender
 
 [leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/) | Using Python, Rust & Go
 
+[yeni-hitit](https://github.com/grt-pretender/yeni-hitit/) | My journey through Turkish language
 
 <!--
 [genuary-2021](https://github.com/grt-pretender/genuary-2021/) | Entries for generative art challenge
