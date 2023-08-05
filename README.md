@@ -68,6 +68,8 @@ gr8pretender
 
 ## My studies & coding challenges
 
+[modelland](https://github.com/grt-pretender/modelland/) | Tool for text preparation (voice recording)
+
 [advent-of-code](https://github.com/grt-pretender/advent-of-code/) | Using Python & Rust
 
 [codewars-jam](https://github.com/grt-pretender/codewars-jam/) | Using Python, Rust & Go
