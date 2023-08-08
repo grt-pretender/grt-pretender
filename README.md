@@ -42,6 +42,8 @@ gr8pretender
 
 [randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation (for musicians)
 
+[scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for data scrambling using Go
+
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
 
 [mist-gen](https://github.com/grt-pretender/mist-gen) | Tool for generating texts with mistakes (for nlp testing / job interview assignments)
@@ -49,7 +51,6 @@ gr8pretender
 [chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generation for social media using Chekhov`s letters
 
 <!--
-[scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for data scrambling using Go
 
 [for-dict](https://github.com/grt-pretender/for-dict/) | Tool for text preparation (voice recording)
 
