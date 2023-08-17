@@ -102,7 +102,7 @@ gr8pretender
 
 -->
 
-## My projects:[randizer
+## My projects
 
 [randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
 
