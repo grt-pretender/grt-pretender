@@ -132,8 +132,11 @@ gr8pretender
 
 
 ## My studies & challenges
+<!--
 
-[modelland](https://github.com/grt-pretender/modelland/) | A collection of my ML models, different cases
+[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
+
+-->
 
 [probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
 
