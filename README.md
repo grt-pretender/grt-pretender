@@ -98,8 +98,6 @@ gr8pretender
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-
 -->
 
 ## My projects
@@ -110,7 +108,9 @@ gr8pretender
 
 [scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for data scrambling using Go
 
-[mist-gen](https://github.com/grt-pretender/mist-gen) | Tool for generating texts with mistakes (nlp testing / job interview assignments)
+[mist-gen](https://github.com/grt-pretender/mist-gen) | Tool for generating texts with mistakes (nlp testing / job interview assignments) 
+
+[keyword-classifier](https://github.com/grt-pretender/keyword-classifier) | Glossary generator (patent documentation) 
 
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
 
@@ -135,7 +135,7 @@ gr8pretender
 
 [modelland](https://github.com/grt-pretender/modelland/) | A collection of my ML models, different cases
 
-[probability-land](https://github.com/grt-pretender/probability-land/) | stats, probs, etc
+[probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
 
 [advent-of-code](https://github.com/grt-pretender/advent-of-code/) | Using Python & Rust
 
