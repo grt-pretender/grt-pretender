@@ -135,6 +135,8 @@ gr8pretender
 
 [modelland](https://github.com/grt-pretender/modelland/) | A collection of my ML models, different cases
 
+[probability-land](https://github.com/grt-pretender/probability-land/) | stats, probs, etc
+
 [advent-of-code](https://github.com/grt-pretender/advent-of-code/) | Using Python & Rust
 
 [codewars-jam](https://github.com/grt-pretender/codewars-jam/) | Using Python, Rust & Go
