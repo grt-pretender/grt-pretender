@@ -64,11 +64,11 @@ gr8pretender
 [yeni-hitit](https://github.com/grt-pretender/yeni-hitit/) | My journey through Turkish language
 [reading-sicp](https://github.com/grt-pretender/reading-sicp/) | Solutions to some exercises from "Structure and Interpretation of Computer Programs"
 [fastai-exercises](https://github.com/grt-pretender/fastai-exercises/) | Exercises for Practical Deep Learning for Coders by Jeremy Howard
-
-[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
 [cs224n-solutions](https://github.com/grt-pretender/cs224n-solutions/) | Stanford CS224N, Winter 2021
 
 -->
+
+[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
 
 [probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
 
