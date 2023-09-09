@@ -65,10 +65,11 @@ gr8pretender
 [reading-sicp](https://github.com/grt-pretender/reading-sicp/) | Solutions to some exercises from "Structure and Interpretation of Computer Programs"
 [fastai-exercises](https://github.com/grt-pretender/fastai-exercises/) | Exercises for Practical Deep Learning for Coders by Jeremy Howard
 [cs224n-solutions](https://github.com/grt-pretender/cs224n-solutions/) | Stanford CS224N, Winter 2021
+[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
 
 -->
 
-[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
+[sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Socket magic using Python, Rust and Go
 
 [probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
 
