@@ -31,9 +31,7 @@ gr8pretender
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 -->
-
 
 ## My projects
 
@@ -41,6 +39,7 @@ gr8pretender
 
 [chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generation for social media using Chekhov`s letters
 [for-dict](https://github.com/grt-pretender/for-dict/) | Tool for text preparation (voice recording)
+[scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for data scrambling using Go
 
 -->
 
@@ -48,8 +47,6 @@ gr8pretender
 [randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
 
 [yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game in Rust for memorizing Turkish verb forms
-
-[scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for data scrambling using Go
 
 [mist-gen](https://github.com/grt-pretender/mist-gen) | Tool for generating texts with mistakes (nlp testing / job interview assignments) 
 
@@ -66,10 +63,9 @@ gr8pretender
 [fastai-exercises](https://github.com/grt-pretender/fastai-exercises/) | Exercises for Practical Deep Learning for Coders by Jeremy Howard
 [cs224n-solutions](https://github.com/grt-pretender/cs224n-solutions/) | Stanford CS224N, Winter 2021
 [modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
+[sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Socket magic using Python, Rust and Go
 
 -->
-
-[sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Socket magic using Python, Rust and Go
 
 [probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
 
