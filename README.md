@@ -48,7 +48,9 @@ gr8pretender
 
 [yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game in Rust for memorizing Turkish verb forms
 
-[mist-gen](https://github.com/grt-pretender/mist-gen) | Tool for generating texts with mistakes (nlp testing / job interview assignments) 
+[mist-gen](https://github.com/grt-pretender/mist-gen) | Generating texts with mistakes (nlp testing / job interview assignments) 
+
+[sverchok-scripts](https://github.com/grt-pretender/sverchok-scripts) | Code for 3d concept art projects in Blender
 
 [keyword-classifier](https://github.com/grt-pretender/keyword-classifier) | Glossary generator (patent documentation) 
 
