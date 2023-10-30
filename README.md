@@ -40,6 +40,7 @@ gr8pretender
 [chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generation for social media using Chekhov`s letters
 [for-dict](https://github.com/grt-pretender/for-dict/) | Tool for text preparation (voice recording)
 [scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for data scrambling using Go
+[keyword-classifier](https://github.com/grt-pretender/keyword-classifier) | Glossary generator (patent documentation) 
 
 -->
 
@@ -48,11 +49,9 @@ gr8pretender
 
 [yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game in Rust for memorizing Turkish verb forms
 
-[mist-gen](https://github.com/grt-pretender/mist-gen) | Generating texts with mistakes (nlp testing / job interview assignments) 
+[mist-gen](https://github.com/grt-pretender/mist-gen) | Generating texts with mistakes in Go
 
 [sverchok-scripts](https://github.com/grt-pretender/sverchok-scripts) | Code for 3d concept art projects in Blender
-
-[keyword-classifier](https://github.com/grt-pretender/keyword-classifier) | Glossary generator (patent documentation) 
 
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
 
@@ -64,17 +63,17 @@ gr8pretender
 [reading-sicp](https://github.com/grt-pretender/reading-sicp/) | Solutions to some exercises from "Structure and Interpretation of Computer Programs"
 [fastai-exercises](https://github.com/grt-pretender/fastai-exercises/) | Exercises for Practical Deep Learning for Coders by Jeremy Howard
 [cs224n-solutions](https://github.com/grt-pretender/cs224n-solutions/) | Stanford CS224N, Winter 2021
-[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
+[probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
 [sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Socket magic using Python, Rust and Go
 
 -->
 
-[probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
-
 [advent-of-code](https://github.com/grt-pretender/advent-of-code/) | Using Python & Rust
 
-[codewars-jam](https://github.com/grt-pretender/codewars-jam/) | Using Python, Rust & Go
+[codewars-jam](https://github.com/grt-pretender/codewars-jam/) | Using Python & Rust
 
-[leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/) | Using Python, Rust & Go
+[leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/) | Using Python, Rust, Go & SQL
+
+[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
 
 
