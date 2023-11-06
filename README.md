@@ -74,6 +74,8 @@ gr8pretender
 
 [leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/) | Using Python, Rust, Go & SQL
 
+[sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Different client-server stuff
+
 [modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
 
 
