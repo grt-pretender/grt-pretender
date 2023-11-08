@@ -38,20 +38,22 @@ gr8pretender
 <!--
 
 [chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generation for social media using Chekhov`s letters
-[for-dict](https://github.com/grt-pretender/for-dict/) | Tool for text preparation (voice recording)
+[numarayı-söyle](https://github.com/grt-pretender/numarayı-söyle/) | Tool for memorizing Turkish numbers
 [scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for data scrambling using Go
 [keyword-classifier](https://github.com/grt-pretender/keyword-classifier) | Glossary generator (patent documentation) 
+[sverchok-scripts](https://github.com/grt-pretender/sverchok-scripts) | Code for 3d concept art projects in Blender
 
 -->
 
 
 [randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
 
-[yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game in Rust for memorizing Turkish verb forms
+[yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game for memorizing Turkish verb forms
+
+[numarayı-söyle](https://github.com/grt-pretender/numarayı-söyle/) | Tool for memorizing Turkish numbers
 
 [mist-gen](https://github.com/grt-pretender/mist-gen) | Generating texts with mistakes in Go
 
-[sverchok-scripts](https://github.com/grt-pretender/sverchok-scripts) | Code for 3d concept art projects in Blender
 
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
 
