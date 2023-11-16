@@ -77,7 +77,7 @@ gr8pretender
 
 [codewars-jam](https://github.com/grt-pretender/codewars-jam/) | Using Python & Rust
 
-[leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/) | Using Python, Rust, Go & SQL
+[leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/) | Using Python, Rust, Go, JS & SQL
 
 [sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Different client-server stuff
 
