@@ -70,17 +70,18 @@ gr8pretender
 [cs224n-solutions](https://github.com/grt-pretender/cs224n-solutions/) | Stanford CS224N, Winter 2021
 [probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
 [sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Socket magic using Python, Rust and Go
+[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
 
 -->
 
-[advent-of-code](https://github.com/grt-pretender/advent-of-code/) | Using Python & Rust
+[leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/)
 
-[codewars-jam](https://github.com/grt-pretender/codewars-jam/) | Using Python & Rust
+[advent-of-code](https://github.com/grt-pretender/advent-of-code/)
 
-[leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/) | Using Python, Rust, Go, JS & SQL
+[codewars-jam](https://github.com/grt-pretender/codewars-jam/) 
 
 [sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Different client-server stuff
 
-[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
+[reading-sicp](https://github.com/grt-pretender/reading-sicp) | "Structure and Interpretation of Computer Programs" using Racket
 
 
