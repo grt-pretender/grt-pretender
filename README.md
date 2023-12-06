@@ -55,8 +55,7 @@ gr8pretender
 
 [numarayı-söyle](https://github.com/grt-pretender/numarayı-söyle/) | Tool for memorizing Turkish numbers
 
-[mist-gen](https://github.com/grt-pretender/mist-gen) | Generating texts with mistakes in Go
-
+[mist-gen](https://github.com/grt-pretender/mist-gen) | Generating texts with mistakes
 
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
 
@@ -70,18 +69,19 @@ gr8pretender
 [cs224n-solutions](https://github.com/grt-pretender/cs224n-solutions/) | Stanford CS224N, Winter 2021
 [probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
 [sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Socket magic using Python, Rust and Go
-[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
-
--->
-
-[leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/)
-
-[advent-of-code](https://github.com/grt-pretender/advent-of-code/)
-
-[codewars-jam](https://github.com/grt-pretender/codewars-jam/) 
-
 [sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Different client-server stuff
 
 [reading-sicp](https://github.com/grt-pretender/reading-sicp) | "Structure and Interpretation of Computer Programs" using Racket
+-->
+
+[codewars-jam](https://github.com/grt-pretender/codewars-jam/) 
+
+[leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/)
+
+[advent-of-code](https://github.com/grt-pretender/advent-of-code/) | Using Python, Rust or JS
+
+[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
+
+
 
 
