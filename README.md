@@ -55,6 +55,8 @@ gr8pretender
 
 [numarayı-söyle](https://github.com/grt-pretender/numarayı-söyle/) | Tool for memorizing Turkish numbers
 
+[multitran-parser](https://github.com/grt-pretender/multitran-parser/) | For topic translation queries
+
 [mist-gen](https://github.com/grt-pretender/mist-gen) | Generating texts with mistakes
 
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
@@ -70,7 +72,7 @@ gr8pretender
 [probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
 [sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Socket magic using Python, Rust and Go
 [sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Different client-server stuff
-
+[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
 [reading-sicp](https://github.com/grt-pretender/reading-sicp) | "Structure and Interpretation of Computer Programs" using Racket
 -->
 
@@ -80,7 +82,6 @@ gr8pretender
 
 [advent-of-code](https://github.com/grt-pretender/advent-of-code/) | Using Python, Rust or JS
 
-[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
 
 
 
