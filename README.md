@@ -53,7 +53,7 @@ gr8pretender
 
 [yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game for memorizing Turkish verb forms
 
-[numarayı-söyle](https://github.com/grt-pretender/numarayı-söyle/) | Tool for memorizing Turkish numbers
+[turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | Tool for memorizing Turkish numbers
 
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | For topic translation queries
 
@@ -72,15 +72,18 @@ gr8pretender
 [probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
 [sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Socket magic using Python, Rust and Go
 [sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Different client-server stuff
-[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
-[reading-sicp](https://github.com/grt-pretender/reading-sicp) | "Structure and Interpretation of Computer Programs" using Racket
+
 -->
+
+[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
+
+[math-25a](https://github.com/grt-pretender/math-25a)
 
 [codewars-jam](https://github.com/grt-pretender/codewars-jam/) 
 
 [leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/)
 
-[advent-of-code](https://github.com/grt-pretender/advent-of-code/) | Using Python, Rust or JS
+[advent-of-code](https://github.com/grt-pretender/advent-of-code/) 
 
 
 
