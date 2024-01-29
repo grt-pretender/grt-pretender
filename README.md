@@ -75,7 +75,7 @@ gr8pretender
 
 [modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
 
-[math-25a](https://github.com/grt-pretender/math-25a)
+[math-25a](https://github.com/grt-pretender/math-25a) | Solutions to Harvard`s ''Theoretical Linear Algebra & Real Analysis''
 
 [codewars-jam](https://github.com/grt-pretender/codewars-jam/) 
 
