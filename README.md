@@ -40,8 +40,8 @@ gr8pretender
 
 <!--
 
+[mist-gen](https://github.com/grt-pretender/mist-gen) | Generating texts with mistakes
 [chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generation for social media using Chekhov`s letters
-[numarayı-söyle](https://github.com/grt-pretender/numarayı-söyle/) | Tool for memorizing Turkish numbers
 [scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for data scrambling using Go
 [keyword-classifier](https://github.com/grt-pretender/keyword-classifier) | Glossary generator (patent documentation) 
 [sverchok-scripts](https://github.com/grt-pretender/sverchok-scripts) | Code for 3d concept art projects in Blender
@@ -51,13 +51,11 @@ gr8pretender
 
 [randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
 
+[multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Web app for topic translation queries
+
+[turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | Tool for memorizing Turkish numbers in Rust
+
 [yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game for memorizing Turkish verb forms
-
-[turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | Tool for memorizing Turkish numbers
-
-[multitran-parser](https://github.com/grt-pretender/multitran-parser/) | For topic translation queries
-
-[mist-gen](https://github.com/grt-pretender/mist-gen) | Generating texts with mistakes
 
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
 
