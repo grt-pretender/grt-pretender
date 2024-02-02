@@ -70,12 +70,13 @@ gr8pretender
 [probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
 [sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Socket magic using Python, Rust and Go
 [sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Different client-server stuff
+[ds-linear-algebra](https://github.com/grt-pretender/ds-linear-algebra) | Solutions to Mike X Cohen`s "Practical Linear Algebra for Data Science"
 
 -->
 
 [modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
 
-[ds-linear-algebra](https://github.com/grt-pretender/ds-linear-algebra) | Solutionos to Mike X Cohen`s "Practical Linear Algebra for Data Science"
+[audio-dsp-stuff](https://github.com/grt-pretender/audio-dsp-stuff/)
 
 [codewars-jam](https://github.com/grt-pretender/codewars-jam/) 
 
