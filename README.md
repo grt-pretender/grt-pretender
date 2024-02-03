@@ -76,13 +76,17 @@ gr8pretender
 
 [modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
 
-[audio-dsp-stuff](https://github.com/grt-pretender/audio-dsp-stuff/)
+[think-dsp-ex](https://github.com/grt-pretender/think-dsp-ex/) | Solutions to "Think DSP. Digital Signal Processing in Python"
 
+[audio-dsp-stuff](https://github.com/grt-pretender/audio-dsp-stuff/) | Different audio stuff
+
+<!--
 [codewars-jam](https://github.com/grt-pretender/codewars-jam/) 
 
 [leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/)
 
 [advent-of-code](https://github.com/grt-pretender/advent-of-code/) 
+-->
 
 
 
