@@ -39,8 +39,6 @@ gr8pretender
 ## My projects
 
 <!--
-
-[mist-gen](https://github.com/grt-pretender/mist-gen) | Generating texts with mistakes
 [chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generation for social media using Chekhov`s letters
 [scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for data scrambling using Go
 [keyword-classifier](https://github.com/grt-pretender/keyword-classifier) | Glossary generator (patent documentation) 
@@ -53,21 +51,22 @@ gr8pretender
 
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Web app for topic translation queries
 
-[turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | Tool for memorizing Turkish numbers in Rust
-
-[yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game for memorizing Turkish verb forms
+[turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
 
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
+
+[mist-gen](https://github.com/grt-pretender/mist-gen) | Script for generating texts with mistakes (nlp testing / job interview assignments)
+
 
 
 ## My studies & challenges
 <!--
 [genuary-2021](https://github.com/grt-pretender/genuary-2021/) | Entries for generative art challenge
 [yeni-hitit](https://github.com/grt-pretender/yeni-hitit/) | My journey through Turkish language
+[yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game for memorizing Turkish verb forms
 [reading-sicp](https://github.com/grt-pretender/reading-sicp/) | Solutions to some exercises from "Structure and Interpretation of Computer Programs"
 [fastai-exercises](https://github.com/grt-pretender/fastai-exercises/) | Exercises for Practical Deep Learning for Coders by Jeremy Howard
 [cs224n-solutions](https://github.com/grt-pretender/cs224n-solutions/) | Stanford CS224N, Winter 2021
-[probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
 [sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Socket magic using Python, Rust and Go
 [sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Different client-server stuff
 [ds-linear-algebra](https://github.com/grt-pretender/ds-linear-algebra) | Solutions to Mike X Cohen`s "Practical Linear Algebra for Data Science"
@@ -75,6 +74,8 @@ gr8pretender
 -->
 
 [modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
+
+[probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
 
 [think-dsp-ex](https://github.com/grt-pretender/think-dsp-ex/) | Solutions to "Think DSP. Digital Signal Processing in Python"
 
