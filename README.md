@@ -57,6 +57,7 @@ gr8pretender
 
 [mist-gen](https://github.com/grt-pretender/mist-gen) | Script for generating texts with mistakes (nlp testing / job interview assignments)
 
+[chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generation for social media using Chekhov`s letters
 
 
 ## My studies & challenges
@@ -70,16 +71,16 @@ gr8pretender
 [sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Socket magic using Python, Rust and Go
 [sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Different client-server stuff
 [ds-linear-algebra](https://github.com/grt-pretender/ds-linear-algebra) | Solutions to Mike X Cohen`s "Practical Linear Algebra for Data Science"
+[probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
+[audio-dsp-stuff](https://github.com/grt-pretender/audio-dsp-stuff/) | Different audio stuff
 
 -->
 
 [modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
 
-[probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
+[reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 
 [think-dsp-ex](https://github.com/grt-pretender/think-dsp-ex/) | Solutions to "Think DSP. Digital Signal Processing in Python"
-
-[audio-dsp-stuff](https://github.com/grt-pretender/audio-dsp-stuff/) | Different audio stuff
 
 <!--
 [codewars-jam](https://github.com/grt-pretender/codewars-jam/) 
