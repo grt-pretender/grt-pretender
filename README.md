@@ -65,16 +65,13 @@ gr8pretender
 [yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game for memorizing Turkish verb forms
 [reading-sicp](https://github.com/grt-pretender/reading-sicp/) | Solutions to some exercises from "Structure and Interpretation of Computer Programs"
 [fastai-exercises](https://github.com/grt-pretender/fastai-exercises/) | Exercises for Practical Deep Learning for Coders by Jeremy Howard
-[cs224n-solutions](https://github.com/grt-pretender/cs224n-solutions/) | Stanford CS224N, Winter 2021
-[sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Socket magic using Python, Rust and Go
-[sockets-in-the-air](https://github.com/grt-pretender/sockets-in-the-air/) | Different client-server stuff
 [ds-linear-algebra](https://github.com/grt-pretender/ds-linear-algebra) | Solutions to Mike X Cohen`s "Practical Linear Algebra for Data Science"
 [probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
 [audio-dsp-stuff](https://github.com/grt-pretender/audio-dsp-stuff/) | Different audio stuff
 
 -->
 
-[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
+[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different courses/cases
 
 [reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 
