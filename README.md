@@ -71,15 +71,13 @@ gr8pretender
 
 -->
 
-[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different courses/cases
+[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
 
-[self-driving-js](https://github.com/grt-pretender/self-driving-js) | My project based on nnn's course 
+[self-driving-js](https://github.com/grt-pretender/self-driving-js) | My project based on Radu Mariescu-Istodor's course 
 
 [norvig-russell-ai](https://github.com/grt-pretender/norvig-russell-ai) | Some algos for Russell and Norvig's "Artificial Intelligence - A Modern Approach"
 
 [reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
-
-[leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/)
 
 
 <!--
