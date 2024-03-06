@@ -73,16 +73,24 @@ gr8pretender
 
 [modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different courses/cases
 
+[self-driving-js](https://github.com/grt-pretender/self-driving-js) | My project based on nnn's course 
+
+[norvig-russell-ai](https://github.com/grt-pretender/norvig-russell-ai) | Some algos for Russell and Norvig's "Artificial Intelligence - A Modern Approach"
+
 [reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
-
-[think-dsp-ex](https://github.com/grt-pretender/think-dsp-ex/) | Solutions to "Think DSP. Digital Signal Processing in Python"
-
-<!--
-[codewars-jam](https://github.com/grt-pretender/codewars-jam/) 
 
 [leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/)
 
+
+<!--
+
+[think-dsp-ex](https://github.com/grt-pretender/think-dsp-ex/) | Solutions to "Think DSP. Digital Signal Processing in Python"
+
+[codewars-jam](https://github.com/grt-pretender/codewars-jam/) 
+[leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/)
 [advent-of-code](https://github.com/grt-pretender/advent-of-code/) 
+
+
 -->
 
 
