@@ -75,6 +75,8 @@ gr8pretender
 
 [self-driving-js](https://github.com/grt-pretender/self-driving-js) | My project based on Radu Mariescu-Istodor's course 
 
+[cs50-ai](https://github.com/grt-pretender/cs50-ai/) | Algorithms for CS50's "Introduction to Artificial Intelligence with Python"
+
 [norvig-russell-ai](https://github.com/grt-pretender/norvig-russell-ai) | Some algos for Russell and Norvig's "Artificial Intelligence - A Modern Approach"
 
 [reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
