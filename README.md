@@ -69,6 +69,8 @@ gr8pretender
 [probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
 [audio-dsp-stuff](https://github.com/grt-pretender/audio-dsp-stuff/) | Different audio stuff
 
+[norvig-russell-ai](https://github.com/grt-pretender/norvig-russell-ai) | Some algos for Russell and Norvig's "Artificial Intelligence - A Modern Approach"
+
 -->
 
 [modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
@@ -77,7 +79,7 @@ gr8pretender
 
 [cs50-ai](https://github.com/grt-pretender/cs50-ai/) | Algorithms for CS50's "Introduction to Artificial Intelligence with Python"
 
-[norvig-russell-ai](https://github.com/grt-pretender/norvig-russell-ai) | Some algos for Russell and Norvig's "Artificial Intelligence - A Modern Approach"
+[inside-robotics](https://github.com/grt-pretender/inside-robotics) | Different simulations & exercises for Russ Tedrake's MIT courses
 
 [reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 
