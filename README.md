@@ -47,39 +47,32 @@ gr8pretender
 
 [randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
 
+[mist-gen](https://github.com/grt-pretender/mist-gen) | Script for generating texts with mistakes
+
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Web app for topic translation queries
 
 [turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers
 
-[sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
-
-[mist-gen](https://github.com/grt-pretender/mist-gen) | Script for generating texts with mistakes (nlp testing / job interview assignments)
-
 [chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generator for social media using Chekhov`s letters
+
+[sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
 
 
 ## My studies & challenges
 <!--
 [genuary-2021](https://github.com/grt-pretender/genuary-2021/) | Entries for generative art challenge
-[yeni-hitit](https://github.com/grt-pretender/yeni-hitit/) | My journey through Turkish language
 [yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game for memorizing Turkish verb forms
 [reading-sicp](https://github.com/grt-pretender/reading-sicp/) | Solutions to some exercises from "Structure and Interpretation of Computer Programs"
-[fastai-exercises](https://github.com/grt-pretender/fastai-exercises/) | Exercises for Practical Deep Learning for Coders by Jeremy Howard
 [ds-linear-algebra](https://github.com/grt-pretender/ds-linear-algebra) | Solutions to Mike X Cohen`s "Practical Linear Algebra for Data Science"
 [probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
-[audio-dsp-stuff](https://github.com/grt-pretender/audio-dsp-stuff/) | Different audio stuff
-
-[norvig-russell-ai](https://github.com/grt-pretender/norvig-russell-ai) | Some algos for Russell and Norvig's "Artificial Intelligence - A Modern Approach"
 
 -->
 
 [modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
 
-[self-driving-js](https://github.com/grt-pretender/self-driving-js) | My project based on Radu Mariescu-Istodor's course 
-
-[cs50-ai](https://github.com/grt-pretender/cs50-ai/) | Algorithms for CS50's "Introduction to Artificial Intelligence with Python"
-
 [inside-robotics](https://github.com/grt-pretender/inside-robotics) | Different simulations & exercises for Russ Tedrake's MIT courses
+
+[cs50-ai](https://github.com/grt-pretender/cs50-ai/) | Algos/projects for CS50's "Introduction to Artificial Intelligence with Python"
 
 [reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 
