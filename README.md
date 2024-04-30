@@ -42,6 +42,7 @@ gr8pretender
 [keyword-classifier](https://github.com/grt-pretender/keyword-classifier) | Glossary generator (patent documentation) 
 [sverchok-scripts](https://github.com/grt-pretender/sverchok-scripts) | Code for 3d concept art projects in Blender
 
+[chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generator for social media using Chekhov`s letters
 -->
 
 
@@ -53,8 +54,6 @@ gr8pretender
 
 [turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
 
-[chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generator for social media using Chekhov`s letters
-
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
 
 
@@ -65,7 +64,6 @@ gr8pretender
 [reading-sicp](https://github.com/grt-pretender/reading-sicp/) | Solutions to some exercises from "Structure and Interpretation of Computer Programs"
 [ds-linear-algebra](https://github.com/grt-pretender/ds-linear-algebra) | Solutions to Mike X Cohen`s "Practical Linear Algebra for Data Science"
 [probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
-
 -->
 
 [modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
