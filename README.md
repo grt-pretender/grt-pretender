@@ -48,7 +48,7 @@ gr8pretender
 
 [randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
 
-[mist-gen](https://github.com/grt-pretender/mist-gen) | Script for generating texts with mistakes
+[scrambling-jam](https://github.com/grt-pretender/scrambling-jam) | Go tool for generating texts with mistakes
 
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Web app for topic translation queries
 
