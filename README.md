@@ -52,6 +52,8 @@ gr8pretender
 
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Web app for topic translation queries
 
+[find-tram](https://github.com/grt-pretender/multitran-parser/) | Прогноз прибытия трамваев, Новосибирск
+
 [turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
 
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
