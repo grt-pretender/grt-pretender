@@ -43,6 +43,7 @@ gr8pretender
 [sverchok-scripts](https://github.com/grt-pretender/sverchok-scripts) | Code for 3d concept art projects in Blender
 
 [chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generator for social media using Chekhov`s letters
+[find-tram](https://github.com/grt-pretender/find-tram/) | Прогноз прибытия трамваев, Новосибирск
 -->
 
 
@@ -52,7 +53,9 @@ gr8pretender
 
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Web app for topic translation queries
 
-[find-tram](https://github.com/grt-pretender/find-tram/) | Прогноз прибытия трамваев, Новосибирск
+[find-me](https://github.com/grt-pretender/find-me/) | Web app for practicing reading skills in foreign languages
+
+[pure-joy](https://github.com/grt-pretender/pure-joy/) | My patches using VCV Rack and Pure Data
 
 [turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
 
