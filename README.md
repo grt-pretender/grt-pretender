@@ -34,7 +34,7 @@ gr8pretender
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor
 -->
 
-## My projects
+## My projects - Sound & music
 
 <!--
 [chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generation for social media using Chekhov`s letters
@@ -49,19 +49,24 @@ gr8pretender
 
 [randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
 
-[scrambling-jam](https://github.com/grt-pretender/scrambling-jam) | Go tool for generating texts with mistakes
+[pure-joy](https://github.com/grt-pretender/pure-joy/) | My patches using VCV Rack and Pure Data
+
+
+
+## My projects - Langs & other stuff 
 
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Web app for topic translation queries
 
-[find-me](https://github.com/grt-pretender/find-me/) | Web app for practicing reading skills in foreign languages
+[scrambling-jam](https://github.com/grt-pretender/scrambling-jam) | Tool for generating texts with mistakes
 
-[pure-joy](https://github.com/grt-pretender/pure-joy/) | My patches using VCV Rack and Pure Data
+[find-me](https://github.com/grt-pretender/find-me/) | Web app for practicing reading skills in foreign languages
 
 [turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
 
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
 
 
+<!--
 ## My studies & challenges
 <!--
 [genuary-2021](https://github.com/grt-pretender/genuary-2021/) | Entries for generative art challenge
@@ -69,7 +74,6 @@ gr8pretender
 [reading-sicp](https://github.com/grt-pretender/reading-sicp/) | Solutions to some exercises from "Structure and Interpretation of Computer Programs"
 [ds-linear-algebra](https://github.com/grt-pretender/ds-linear-algebra) | Solutions to Mike X Cohen`s "Practical Linear Algebra for Data Science"
 [probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
--->
 
 [modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
 
@@ -79,10 +83,10 @@ gr8pretender
 
 [messier-rust](https://github.com/grt-pretender/messier-rust/) | Exercises from Ric Messier's "Beginning Rust Programming"
 
+-->
 <!--
 
 [ds-linear-algebra](https://github.com/grt-pretender/ds-linear-algebra) | Solutions to Mike X Cohen`s "Practical Linear Algebra for Data Science"
-
 [think-dsp-ex](https://github.com/grt-pretender/think-dsp-ex/) | Solutions to "Think DSP. Digital Signal Processing in Python"
 [reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 [codewars-jam](https://github.com/grt-pretender/codewars-jam/) 
