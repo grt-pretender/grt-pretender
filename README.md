@@ -44,12 +44,16 @@ gr8pretender
 
 [chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generator for social media using Chekhov`s letters
 [find-tram](https://github.com/grt-pretender/find-tram/) | Прогноз прибытия трамваев, Новосибирск
+[sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
+
 -->
 
 
 [randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
 
 [pure-joy](https://github.com/grt-pretender/pure-joy/) | My patches using VCV Rack and Pure Data
+
+[specky](https://github.com/grt-pretender/specky) | My audio spectrum analyzer
 
 
 
@@ -63,13 +67,12 @@ gr8pretender
 
 [turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
 
-[sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
-
 
 <!--
 ## My studies & challenges
 <!--
 [genuary-2021](https://github.com/grt-pretender/genuary-2021/) | Entries for generative art challenge
+
 [yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game for memorizing Turkish verb forms
 [reading-sicp](https://github.com/grt-pretender/reading-sicp/) | Solutions to some exercises from "Structure and Interpretation of Computer Programs"
 [ds-linear-algebra](https://github.com/grt-pretender/ds-linear-algebra) | Solutions to Mike X Cohen`s "Practical Linear Algebra for Data Science"
