@@ -53,6 +53,8 @@ gr8pretender
 
 [pure-joy](https://github.com/grt-pretender/pure-joy/) | My patches using VCV Rack and Pure Data
 
+[audio-prog](https://github.com/grt-pretender/audio-prog/) | Solutions to "The Audio Programming Book", Boulanger / Lazzarini
+
 [specky](https://github.com/grt-pretender/specky) | My audio spectrum analyzer
 
 
