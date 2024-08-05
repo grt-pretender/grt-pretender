@@ -46,6 +46,8 @@ gr8pretender
 [find-tram](https://github.com/grt-pretender/find-tram/) | Прогноз прибытия трамваев, Новосибирск
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
 
+[specky](https://github.com/grt-pretender/specky) | My audio spectrum analyzer
+
 -->
 
 
@@ -55,7 +57,6 @@ gr8pretender
 
 [audio-prog](https://github.com/grt-pretender/audio-prog/) | Solutions to "The Audio Programming Book", Boulanger / Lazzarini
 
-[specky](https://github.com/grt-pretender/specky) | My audio spectrum analyzer
 
 
 
