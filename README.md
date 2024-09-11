@@ -66,8 +66,6 @@ gr8pretender
 
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam) | Tool for generating texts with mistakes
 
-[find-me](https://github.com/grt-pretender/find-me/) | Web app for practicing reading skills in foreign languages
-
 [turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
 
 [messier-rust](https://github.com/grt-pretender/messier-rust/) | Exercises from Ric Messier's "Beginning Rust Programming"
@@ -82,7 +80,7 @@ gr8pretender
 [reading-sicp](https://github.com/grt-pretender/reading-sicp/) | Solutions to some exercises from "Structure and Interpretation of Computer Programs"
 [ds-linear-algebra](https://github.com/grt-pretender/ds-linear-algebra) | Solutions to Mike X Cohen`s "Practical Linear Algebra for Data Science"
 [probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
-
+[find-me](https://github.com/grt-pretender/find-me/) | Web app for practicing reading skills in foreign languages
 [modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
 
 [inside-robotics](https://github.com/grt-pretender/inside-robotics) | Different simulations & exercises for Russ Tedrake's MIT courses
