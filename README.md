@@ -53,9 +53,9 @@ gr8pretender
 
 [randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
 
-[farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Solutions to "Designing sound" by Andrew Farnell
+[farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Exercises from Andy Farnell's "Designing sound"
 
-[audio-prog](https://github.com/grt-pretender/audio-prog/) | Solutions to "The Audio Programming Book", Boulanger / Lazzarini
+[audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from "The Audio Programming Book", Boulanger / Lazzarini
 
 
 
@@ -69,6 +69,8 @@ gr8pretender
 [find-me](https://github.com/grt-pretender/find-me/) | Web app for practicing reading skills in foreign languages
 
 [turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
+
+[messier-rust](https://github.com/grt-pretender/messier-rust/) | Exercises from Ric Messier's "Beginning Rust Programming"
 
 
 <!--
