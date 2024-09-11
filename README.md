@@ -53,7 +53,7 @@ gr8pretender
 
 [randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
 
-[pure-joy](https://github.com/grt-pretender/pure-joy/) | My patches using VCV Rack and Pure Data
+[farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Solutions to "Designing sound" by Andrew Farnell
 
 [audio-prog](https://github.com/grt-pretender/audio-prog/) | Solutions to "The Audio Programming Book", Boulanger / Lazzarini
 
