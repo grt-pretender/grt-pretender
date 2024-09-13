@@ -34,7 +34,7 @@ gr8pretender
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor
 -->
 
-## My projects - Sound & music
+## My projects - sound & music
 
 <!--
 [chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generation for social media using Chekhov`s letters
@@ -60,7 +60,7 @@ gr8pretender
 
 
 
-## My projects - Langs & other stuff 
+## My projects - langs & other stuff 
 
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Web app for topic translation queries
 
@@ -68,7 +68,8 @@ gr8pretender
 
 [turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
 
-[messier-rust](https://github.com/grt-pretender/messier-rust/) | Exercises from Ric Messier's "Beginning Rust Programming"
+[reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
+
 
 
 <!--
@@ -80,9 +81,8 @@ gr8pretender
 [reading-sicp](https://github.com/grt-pretender/reading-sicp/) | Solutions to some exercises from "Structure and Interpretation of Computer Programs"
 [ds-linear-algebra](https://github.com/grt-pretender/ds-linear-algebra) | Solutions to Mike X Cohen`s "Practical Linear Algebra for Data Science"
 [probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
-[find-me](https://github.com/grt-pretender/find-me/) | Web app for practicing reading skills in foreign languages
 [modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
-
+[find-me](https://github.com/grt-pretender/find-me/) | Web app for practicing reading skills in foreign languages
 [inside-robotics](https://github.com/grt-pretender/inside-robotics) | Different simulations & exercises for Russ Tedrake's MIT courses
 
 [cs50-ai](https://github.com/grt-pretender/cs50-ai/) | Algos/projects for CS50's "Introduction to Artificial Intelligence with Python"
@@ -94,7 +94,6 @@ gr8pretender
 
 [ds-linear-algebra](https://github.com/grt-pretender/ds-linear-algebra) | Solutions to Mike X Cohen`s "Practical Linear Algebra for Data Science"
 [think-dsp-ex](https://github.com/grt-pretender/think-dsp-ex/) | Solutions to "Think DSP. Digital Signal Processing in Python"
-[reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 [codewars-jam](https://github.com/grt-pretender/codewars-jam/) 
 [leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/)
 [advent-of-code](https://github.com/grt-pretender/advent-of-code/) 
