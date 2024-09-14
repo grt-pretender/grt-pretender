@@ -46,19 +46,6 @@ Here are some ideas to get you started:
 
 
 
-## My projects - langs & other stuff 
-
-
-[multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Web app for topic translation queries
-
-
-[scrambling-jam](https://github.com/grt-pretender/scrambling-jam) | Tool for generating texts with mistakes
-
-
-[turkish-numbers](https://github.com/grt-pretender/turkish-
-
-ferent cases
-
 
 ## My projects - langs & other stuff 
 
@@ -68,13 +55,12 @@ ferent cases
 
 [turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
 
+
+
+<!--
 [reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 
-
-
-<!--
 ## My studies & challenges
-<!--
 [genuary-2021](https://github.com/grt-pretender/genuary-2021/) | Entries for generative art challenge
 
 [yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game for memorizing Turkish verb forms
