@@ -13,31 +13,29 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 -->
 
+## My projects
+
+[jsfx-time](https://github.com/grt-pretender/jsfx-time/) | My audio plugins for REAPER
+
+[randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
+
+[multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Web app for topic translation queries
+
+[turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
+
 ## My studies
 
 [farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Exercises from Andy Farnell's "Designing sound"
 
 [audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from "The Audio Programming Book", Boulanger / Lazzarini
 
-[dafx-code](https://github.com/grt-pretender/dafx-code/) | Code for "DAFX: Digital Audio Effects" by Udo Zölzer
-
 [reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 
 
-
-## My projects
-
-[randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
-
-[multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Web app for topic translation queries
-
+<!--
+[dafx-code](https://github.com/grt-pretender/dafx-code/) | Code for "DAFX: Digital Audio Effects" by Udo Zölzer
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam) | Tool for generating texts with mistakes
 
-[turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
-
-
-
-<!--
 [chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generation for social media using Chekhov`s letters
 [scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for data scrambling using Go
 [keyword-classifier](https://github.com/grt-pretender/keyword-classifier) | Glossary generator (patent documentation) 
