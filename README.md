@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Web app for topic translation queries
 
+[scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for generating texts with mistakes: using Go
+
 [turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
 
 ## My studies
