@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 [jsfx-time](https://github.com/grt-pretender/jsfx-time/) | My audio plugins for REAPER
 
+[vital-presets](https://github.com/grt-pretender/vital-presets/) | Custom presets for Vital synth
+
 [kana-me](https://github.com/grt-pretender/kana-me/) | CLI-tool for memorizing Japanese Hiragana/Katakana in Rust
 
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
