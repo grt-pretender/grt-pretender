@@ -27,14 +27,14 @@ Here are some ideas to get you started:
 
 [exercism-ex](https://github.com/grt-pretender/exercism-ex/) | Solutions to Rust, C++ tracks
 
-[farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Exercises from Andy Farnell's "Designing sound"
-
 [dafx-projects](https://github.com/grt-pretender/dafx-projects/) | My implementations of concepts from "DAFX: Digital Audio Effects" by Udo Zölzer
 
 [reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 
 
 <!--
+
+[farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Exercises from Andy Farnell's "Designing sound"
 [audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from "The Audio Programming Book", Boulanger / Lazzarini
 
 -->
