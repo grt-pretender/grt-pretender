@@ -17,15 +17,17 @@ Here are some ideas to get you started:
 
 [jsfx-time](https://github.com/grt-pretender/jsfx-time/) | My audio plugins for REAPER
 
-[randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
+[kana-me](https://github.com/grt-pretender/kana-me/) | CLI-tool for memorizing Japanese Hiragana/Katakana in Rust
 
-[multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Web app for topic translation queries
+[multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
 
-[scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for generating texts with mistakes: using Go
-
-[turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
+[scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for translators/editors - Generating texts with mistakes
 
 ## My studies
+
+[exercism-ex](https://github.com/grt-pretender/exercism-ex/) | Solutions to Rust, C++ tracks
+
+[reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 
 [farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Exercises from Andy Farnell's "Designing sound"
 
@@ -34,20 +36,18 @@ Here are some ideas to get you started:
 
 -->
 
-[reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
-
 
 <!--
+[randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
 [dafx-code](https://github.com/grt-pretender/dafx-code/) | Code for "DAFX: Digital Audio Effects" by Udo Zölzer
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam) | Tool for generating texts with mistakes
-
+[turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
 [chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generation for social media using Chekhov`s letters
 [scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for data scrambling using Go
 [keyword-classifier](https://github.com/grt-pretender/keyword-classifier) | Glossary generator (patent documentation) 
 [sverchok-scripts](https://github.com/grt-pretender/sverchok-scripts) | Code for 3d concept art projects in Blender
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
 [specky](https://github.com/grt-pretender/specky) | My audio spectrum analyzer
-[reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 [genuary-2021](https://github.com/grt-pretender/genuary-2021/) | Entries for generative art challenge
 [yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game for memorizing Turkish verb forms
 [reading-sicp](https://github.com/grt-pretender/reading-sicp/) | Solutions to some exercises from "Structure and Interpretation of Computer Programs"
