@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [jsfx-time](https://github.com/grt-pretender/jsfx-time/) | My audio plugins for REAPER
 
-[vital-presets](https://github.com/grt-pretender/vital-presets/) | Custom presets for Vital synth
+[vital-presets](https://github.com/grt-pretender/vital-presets/) | My presets for Vital synth
 
 [kana-me](https://github.com/grt-pretender/kana-me/) | CLI-tool for memorizing Japanese Hiragana/Katakana in Rust
 
@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 [dafx-projects](https://github.com/grt-pretender/dafx-projects/) | My implementations of concepts from "DAFX: Digital Audio Effects" by Udo Zölzer
 
-<!--
-
 [reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
+
+<!--
 [farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Exercises from Andy Farnell's "Designing sound"
 [audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from "The Audio Programming Book", Boulanger / Lazzarini
 
