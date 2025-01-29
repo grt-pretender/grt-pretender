@@ -27,20 +27,19 @@ Here are some ideas to get you started:
 
 ## My studies
 
-[exercism-ex](https://github.com/grt-pretender/exercism-ex/) | Solutions to Rust, C++ tracks
+[farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Exercises from Andy Farnell's "Designing sound"
 
-[dafx-projects](https://github.com/grt-pretender/dafx-projects/) | My implementations of concepts from "DAFX: Digital Audio Effects" by Udo Zölzer
-
-[reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
+[dafx-projects](https://github.com/grt-pretender/dafx-projects/) | My implementations of concepts from "DAFX: Digital Audio Effects" 
 
 <!--
-[farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Exercises from Andy Farnell's "Designing sound"
+[reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 [audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from "The Audio Programming Book", Boulanger / Lazzarini
 
 -->
 
 
 <!--
+[exercism-ex](https://github.com/grt-pretender/exercism-ex/) | Solutions to Rust, C++ tracks
 [randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
 [dafx-code](https://github.com/grt-pretender/dafx-code/) | Code for "DAFX: Digital Audio Effects" by Udo Zölzer
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam) | Tool for generating texts with mistakes
