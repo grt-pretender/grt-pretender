@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 -->
 
+## Sound
+
 [jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Audio plugins for REAPER
 
 [vital-presets](https://github.com/grt-pretender/vital-presets/) | Presets for Vital synth
@@ -20,6 +22,8 @@ Here are some ideas to get you started:
 [pure-data-sfx](https://github.com/grt-pretender/pure-data-sfx/) | Pure data sfx patches
 
 [specky](https://github.com/grt-pretender/specky/) | Time & audio spectrum analyzer for sound design
+
+## Other
 
 [kana-me](https://github.com/grt-pretender/kana-me/) | CLI-tool for memorizing Japanese Hiragana/Katakana in Rust
 
