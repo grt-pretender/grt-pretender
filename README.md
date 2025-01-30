@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 [vital-presets](https://github.com/grt-pretender/vital-presets/) | Presets for Vital synth
 
-[specky](https://github.com/grt-pretender/specky/) | Audio spectrum analyzer for sound design
+[pure-data-sfx](https://github.com/grt-pretender/pure-data-sfx/) | Pure data sfx patches
+
+[specky](https://github.com/grt-pretender/specky/) | Time & audio spectrum analyzer for sound design
 
 [kana-me](https://github.com/grt-pretender/kana-me/) | CLI-tool for memorizing Japanese Hiragana/Katakana in Rust
 
