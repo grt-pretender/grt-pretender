@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 -->
 
-## My projects
+[jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Audio plugins for REAPER
 
-[jsfx-time](https://github.com/grt-pretender/jsfx-time/) | My audio plugins for REAPER
+[vital-presets](https://github.com/grt-pretender/vital-presets/) | Presets for Vital synth
 
-[vital-presets](https://github.com/grt-pretender/vital-presets/) | My presets for Vital synth
+[specky](https://github.com/grt-pretender/specky/) | Audio spectrum analyzer for sound design
 
 [kana-me](https://github.com/grt-pretender/kana-me/) | CLI-tool for memorizing Japanese Hiragana/Katakana in Rust
 
@@ -25,48 +25,34 @@ Here are some ideas to get you started:
 
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
 
+<!--
 ## My studies
 
+[dafx-code](https://github.com/grt-pretender/dafx-code/) | Code for "DAFX: Digital Audio Effects" by Udo Zölzer
+
 [dafx-projects](https://github.com/grt-pretender/dafx-projects/) | My implementations of concepts from "DAFX: Digital Audio Effects" 
-
-[reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
-
-<!--
-[reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 [farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Exercises from Andy Farnell's "Designing sound"
 [audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from "The Audio Programming Book", Boulanger / Lazzarini
 
--->
-
-
-<!--
+[reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 [exercism-ex](https://github.com/grt-pretender/exercism-ex/) | Solutions to Rust, C++ tracks
-[randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
-[dafx-code](https://github.com/grt-pretender/dafx-code/) | Code for "DAFX: Digital Audio Effects" by Udo Zölzer
-[scrambling-jam](https://github.com/grt-pretender/scrambling-jam) | Tool for generating texts with mistakes
-[turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
-[chekhov_gen](https://github.com/grt-pretender/chekhov_gen/) | Content generation for social media using Chekhov`s letters
-[scramble-jam](https://github.com/grt-pretender/scramble-jam/) | Tool for data scrambling using Go
-[keyword-classifier](https://github.com/grt-pretender/keyword-classifier) | Glossary generator (patent documentation) 
-[sverchok-scripts](https://github.com/grt-pretender/sverchok-scripts) | Code for 3d concept art projects in Blender
-[sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
-[specky](https://github.com/grt-pretender/specky) | My audio spectrum analyzer
-[genuary-2021](https://github.com/grt-pretender/genuary-2021/) | Entries for generative art challenge
-[yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game for memorizing Turkish verb forms
-[reading-sicp](https://github.com/grt-pretender/reading-sicp/) | Solutions to some exercises from "Structure and Interpretation of Computer Programs"
-[ds-linear-algebra](https://github.com/grt-pretender/ds-linear-algebra) | Solutions to Mike X Cohen`s "Practical Linear Algebra for Data Science"
-[probability-land](https://github.com/grt-pretender/probability-land/) | Stats, probs, etc. 
-[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
-[find-me](https://github.com/grt-pretender/find-me/) | Web app for practicing reading skills in foreign languages
-[inside-robotics](https://github.com/grt-pretender/inside-robotics) | Different simulations & exercises for Russ Tedrake's MIT courses
-[cs50-ai](https://github.com/grt-pretender/cs50-ai/) | Algos/projects for CS50's "Introduction to Artificial Intelligence with Python"
+[reading-sicp](https://github.com/grt-pretender/reading-sicp/) | Solutions to some exercises from "Structure and Interpretation of Computer Programs".
 [messier-rust](https://github.com/grt-pretender/messier-rust/) | Exercises from Ric Messier's "Beginning Rust Programming"
-[ds-linear-algebra](https://github.com/grt-pretender/ds-linear-algebra) | Solutions to Mike X Cohen`s "Practical Linear Algebra for Data Science"
-
 [codewars-jam](https://github.com/grt-pretender/codewars-jam/) 
 [leetcode-snippets](https://github.com/grt-pretender/leetcode-snippets/)
 [advent-of-code](https://github.com/grt-pretender/advent-of-code/) 
 
+## My projects
+[randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
+[turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
+[keyword-classifier](https://github.com/grt-pretender/keyword-classifier) | Glossary generator (patent documentation) 
+[sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
+[genuary-2021](https://github.com/grt-pretender/genuary-2021/) | Entries for generative art challenge
+[yeni-fiil](https://github.com/grt-pretender/yeni-fiil/) | Guessing game for memorizing Turkish verb forms
+ 
+[modelland](https://github.com/grt-pretender/modelland/) | A collection of ML models, different cases
+[inside-robotics](https://github.com/grt-pretender/inside-robotics) | Different simulations & exercises for Russ Tedrake's MIT courses
+[cs50-ai](https://github.com/grt-pretender/cs50-ai/) | Algos/projects for CS50's "Introduction to Artificial Intelligence with Python"
 -->
 
 
