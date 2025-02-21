@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [vital-presets](https://github.com/grt-pretender/vital-presets/) | Presets for Vital synth
 
-[specky](https://github.com/grt-pretender/specky/) | Time & audio spectrum analyzer for sound design
+[handpan-py](https://github.com/grt-pretender/handpan-py/) | Synthesis of the handpan sound
 
 ## Langs
 
@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 [advent-of-code](https://github.com/grt-pretender/advent-of-code/) 
 
 ## My projects
+[specky](https://github.com/grt-pretender/specky/) | Time & audio spectrum analyzer for sound design
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
 [randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
 [turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
