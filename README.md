@@ -15,27 +15,28 @@ Here are some ideas to get you started:
 
 ## Sound
 
+[pure-data-sfx](https://github.com/grt-pretender/pure-data-sfx/) | Pure data sfx patches
+
 [jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Audio plugins for REAPER
 
 [vital-presets](https://github.com/grt-pretender/vital-presets/) | Presets for Vital synth
 
-[pure-data-sfx](https://github.com/grt-pretender/pure-data-sfx/) | Pure data sfx patches
-
 [specky](https://github.com/grt-pretender/specky/) | Time & audio spectrum analyzer for sound design
 
-## Other
+## Langs
 
-[kana-me](https://github.com/grt-pretender/kana-me/) | CLI-tool for memorizing Japanese Hiragana/Katakana in Rust
+[anki-thai](https://github.com/grt-pretender/anki-thai/) | Scripts for making Anki cards for Thai  
+
+[learn-thai](https://github.com/grt-pretender/learn-thai/) | CLI-tool for memorizing Thai alphabet
 
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
 
-[scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
 
 <!--
 ## My studies
 
 [dafx-code](https://github.com/grt-pretender/dafx-code/) | Code for "DAFX: Digital Audio Effects" by Udo Zölzer
-
+[kana-me](https://github.com/grt-pretender/kana-me/) | CLI-tool for memorizing Japanese Hiragana/Katakana in Rust
 [dafx-projects](https://github.com/grt-pretender/dafx-projects/) | My implementations of concepts from "DAFX: Digital Audio Effects" 
 [farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Exercises from Andy Farnell's "Designing sound"
 [audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from "The Audio Programming Book", Boulanger / Lazzarini
@@ -49,6 +50,7 @@ Here are some ideas to get you started:
 [advent-of-code](https://github.com/grt-pretender/advent-of-code/) 
 
 ## My projects
+[scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
 [randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
 [turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
 [keyword-classifier](https://github.com/grt-pretender/keyword-classifier) | Glossary generator (patent documentation) 
