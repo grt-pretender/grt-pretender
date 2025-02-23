@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 ## Langs
 
-[anki-thai](https://github.com/grt-pretender/anki-thai/) | Scripts for making Anki cards for Thai  
-
 [learn-thai](https://github.com/grt-pretender/learn-thai/) | CLI-tool for memorizing Thai alphabet
 
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
@@ -50,6 +48,8 @@ Here are some ideas to get you started:
 [advent-of-code](https://github.com/grt-pretender/advent-of-code/) 
 
 ## My projects
+
+[anki-thai](https://github.com/grt-pretender/anki-thai/) | Scripts for making Anki cards for Thai  
 [specky](https://github.com/grt-pretender/specky/) | Time & audio spectrum analyzer for sound design
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
 [randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
