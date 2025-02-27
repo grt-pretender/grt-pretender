@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 [jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Audio plugins for REAPER
 
-[vital-presets](https://github.com/grt-pretender/vital-presets/) | Presets for Vital synth
-
 [handpan-py](https://github.com/grt-pretender/handpan-py/) | Synthesis of the handpan sound
 
 ## Langs
@@ -49,6 +47,7 @@ Here are some ideas to get you started:
 
 ## My projects
 
+[vital-presets](https://github.com/grt-pretender/vital-presets/) | Presets for Vital synth
 [anki-thai](https://github.com/grt-pretender/anki-thai/) | Scripts for making Anki cards for Thai  
 [specky](https://github.com/grt-pretender/specky/) | Time & audio spectrum analyzer for sound design
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
