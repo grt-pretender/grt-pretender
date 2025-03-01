@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [pure-data-sfx](https://github.com/grt-pretender/pure-data-sfx/) | Pure data sfx patches
 
-[jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Audio plugins for REAPER
+[pd-ex](https://github.com/grt-pretender/pd-ex/) | Pure Data Externals in C and Rust
 
 [handpan-py](https://github.com/grt-pretender/handpan-py/) | Synthesis of the handpan sound
 
@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 
 ## My projects
 
+[jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Audio plugins for REAPER
 [vital-presets](https://github.com/grt-pretender/vital-presets/) | Presets for Vital synth
 [anki-thai](https://github.com/grt-pretender/anki-thai/) | Scripts for making Anki cards for Thai  
 [specky](https://github.com/grt-pretender/specky/) | Time & audio spectrum analyzer for sound design
