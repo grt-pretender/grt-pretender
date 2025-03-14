@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 
 ## Sound
 
+[jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Audio plugins for REAPER
+
 [pure-data-sfx](https://github.com/grt-pretender/pure-data-sfx/) | Pure data sfx patches
 
-[pd-ex](https://github.com/grt-pretender/pd-ex/) | Pure Data Externals in C and Rust
+[pd-ex](https://github.com/grt-pretender/pd-ex/) | Useful Pure Data Externals
 
-[handpan-py](https://github.com/grt-pretender/handpan-py/) | Synthesis of the handpan sound
+[all-karplus-strong](https://github.com/grt-pretender/all-karplus-strong/) | Generating a sound of a hammered/plucked sting and different uses
 
+<!--
 ## Langs
 
 [learn-thai](https://github.com/grt-pretender/learn-thai/) | CLI-tool for memorizing Thai alphabet
@@ -28,7 +31,6 @@ Here are some ideas to get you started:
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
 
 
-<!--
 ## My studies
 
 [dafx-code](https://github.com/grt-pretender/dafx-code/) | Code for "DAFX: Digital Audio Effects" by Udo Zölzer
