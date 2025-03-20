@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 [pd-ex](https://github.com/grt-pretender/pd-ex/) | Useful Pure Data Externals
 
-[all-karplus-strong](https://github.com/grt-pretender/all-karplus-strong/) | Generating a sound of a hammered/plucked sting and different uses
+[all-karplus-strong](https://github.com/grt-pretender/all-karplus-strong/) | Generating a sound of a hammered/plucked string and different uses
+
+[dafx-code](https://github.com/grt-pretender/dafx-code/) | Code for "DAFX: Digital Audio Effects" by Udo Zölzer
 
 <!--
 ## Langs
@@ -34,6 +36,7 @@ Here are some ideas to get you started:
 ## My studies
 
 [dafx-code](https://github.com/grt-pretender/dafx-code/) | Code for "DAFX: Digital Audio Effects" by Udo Zölzer
+
 [kana-me](https://github.com/grt-pretender/kana-me/) | CLI-tool for memorizing Japanese Hiragana/Katakana in Rust
 [dafx-projects](https://github.com/grt-pretender/dafx-projects/) | My implementations of concepts from "DAFX: Digital Audio Effects" 
 [farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Exercises from Andy Farnell's "Designing sound"
