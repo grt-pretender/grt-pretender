@@ -19,25 +19,28 @@ Here are some ideas to get you started:
 
 [pure-data-sfx](https://github.com/grt-pretender/pure-data-sfx/) | Pure data sfx patches
 
-[pd-ex](https://github.com/grt-pretender/pd-ex/) | Useful Pure Data Externals
+[all-karplus-strong](https://github.com/grt-pretender/all-karplus-strong/) | Ways of generating a sound of a hammered/plucked string / percussion
 
-[all-karplus-strong](https://github.com/grt-pretender/all-karplus-strong/) | Generating a sound of a hammered/plucked string and different uses
 
-[dafx-code](https://github.com/grt-pretender/dafx-code/) | Code for "DAFX: Digital Audio Effects" by Udo Zölzer
-
-<!--
 ## Langs
 
-[learn-thai](https://github.com/grt-pretender/learn-thai/) | CLI-tool for memorizing Thai alphabet
+[kana-me](https://github.com/grt-pretender/kana-me/) | Tool for memorizing Japanese Hiragana/Katakana
 
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
+
+[scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
 
 
 ## My studies
 
+[dsp-lyons](https://github.com/grt-pretender/dsp-lyons/) | Code for ''Understanding Digital Signal Processing'' by Richard Lyons
+
 [dafx-code](https://github.com/grt-pretender/dafx-code/) | Code for "DAFX: Digital Audio Effects" by Udo Zölzer
 
-[kana-me](https://github.com/grt-pretender/kana-me/) | CLI-tool for memorizing Japanese Hiragana/Katakana in Rust
+<!--
+
+[learn-thai](https://github.com/grt-pretender/learn-thai/) | CLI-tool for memorizing Thai alphabet
+[pd-ex](https://github.com/grt-pretender/pd-ex/) | Useful Pure Data Externals
 [dafx-projects](https://github.com/grt-pretender/dafx-projects/) | My implementations of concepts from "DAFX: Digital Audio Effects" 
 [farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Exercises from Andy Farnell's "Designing sound"
 [audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from "The Audio Programming Book", Boulanger / Lazzarini
@@ -52,11 +55,9 @@ Here are some ideas to get you started:
 
 ## My projects
 
-[jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Audio plugins for REAPER
 [vital-presets](https://github.com/grt-pretender/vital-presets/) | Presets for Vital synth
 [anki-thai](https://github.com/grt-pretender/anki-thai/) | Scripts for making Anki cards for Thai  
 [specky](https://github.com/grt-pretender/specky/) | Time & audio spectrum analyzer for sound design
-[scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
 [randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
 [turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
 [keyword-classifier](https://github.com/grt-pretender/keyword-classifier) | Glossary generator (patent documentation) 
