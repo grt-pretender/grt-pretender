@@ -19,26 +19,26 @@ Here are some ideas to get you started:
 
 [pure-data-sfx](https://github.com/grt-pretender/pure-data-sfx/) | Pure data sfx patches
 
-[all-karplus-strong](https://github.com/grt-pretender/all-karplus-strong/) | Ways of generating a sound of a hammered/plucked string / percussion
+[randizer](https://github.com/grt-pretender/randizer/) | Web tool for practicing improvisation
+
+[all-karplus-strong](https://github.com/grt-pretender/all-karplus-strong/) | Making a sound of a hammered/plucked string / percussion
 
 
-## Langs
-
-[kana-me](https://github.com/grt-pretender/kana-me/) | Tool for memorizing Japanese Hiragana/Katakana
+## Linguistics
 
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
 
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
 
 
+<!--
 ## My studies
 
 [dsp-lyons](https://github.com/grt-pretender/dsp-lyons/) | Code for ''Understanding Digital Signal Processing'' by Richard Lyons
-
 [dafx-code](https://github.com/grt-pretender/dafx-code/) | Code for "DAFX: Digital Audio Effects" by Udo Zölzer
 
-<!--
 
+[kana-me](https://github.com/grt-pretender/kana-me/) | Tool for memorizing Japanese Hiragana/Katakana
 [learn-thai](https://github.com/grt-pretender/learn-thai/) | CLI-tool for memorizing Thai alphabet
 [pd-ex](https://github.com/grt-pretender/pd-ex/) | Useful Pure Data Externals
 [dafx-projects](https://github.com/grt-pretender/dafx-projects/) | My implementations of concepts from "DAFX: Digital Audio Effects" 
