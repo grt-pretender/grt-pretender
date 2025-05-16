@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
 
+<!--
+
 [hangul-me](https://github.com/grt-pretender/hangul-me/) | Tool for memorizing Korean alphabet system
 
-<!--
 ## My studies
 
 [all-karplus-strong](https://github.com/grt-pretender/all-karplus-strong/) | Making a sound of a hammered/plucked string / percussion
