@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 ## Linguistics
 
+[slow-german-ex](https://github.com/grt-pretender/slow-german-ex/) | Grammar exercises generated from Slow German podcast
+
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
 
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
