@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 ## Linguistics
 
+[kana-me](https://github.com/grt-pretender/kana-me/) | Tool for memorizing Japanese Hiragana & Katakana
+
 [slow-german-ex](https://github.com/grt-pretender/slow-german-ex/) | Grammar exercises generated from Slow German podcast by Annik Rubens
 
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
@@ -40,8 +42,6 @@ Here are some ideas to get you started:
 [dsp-lyons](https://github.com/grt-pretender/dsp-lyons/) | Code for ''Understanding Digital Signal Processing'' by Richard Lyons
 [dafx-code](https://github.com/grt-pretender/dafx-code/) | Code for "DAFX: Digital Audio Effects" by Udo Zölzer
 
-
-[kana-me](https://github.com/grt-pretender/kana-me/) | Tool for memorizing Japanese Hiragana/Katakana
 [learn-thai](https://github.com/grt-pretender/learn-thai/) | CLI-tool for memorizing Thai alphabet
 [pd-ex](https://github.com/grt-pretender/pd-ex/) | Useful Pure Data Externals
 [dafx-projects](https://github.com/grt-pretender/dafx-projects/) | My implementations of concepts from "DAFX: Digital Audio Effects" 
