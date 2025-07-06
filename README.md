@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 [pure-data-sfx](https://github.com/grt-pretender/pure-data-sfx/) | Pure data patches
 
-[dafx-code](https://github.com/grt-pretender/dafx-code/) | Code for "DAFX: Digital Audio Effects" by Udo Zölzer et al
+[dafx-code](https://github.com/grt-pretender/dafx-code/) | Code from "DAFX: Digital Audio Effects" by Udo Zölzer et al
 
-[audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from "The Audio Programming Book" by Boulanger / Lazzarini
+[audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises for "The Audio Programming Book" by Boulanger / Lazzarini
 
 <!--
 ## Sound
