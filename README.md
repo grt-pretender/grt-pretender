@@ -13,16 +13,21 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 -->
 
-## Sound
 
 [jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Audio plugins for REAPER
 
-[pure-data-sfx](https://github.com/grt-pretender/pure-data-sfx/) | Pure data sfx patches
+[pure-data-sfx](https://github.com/grt-pretender/pure-data-sfx/) | Pure data patches
 
-[randizer](https://github.com/grt-pretender/randizer/) | Web tool for practicing improvisation
+[dafx-code](https://github.com/grt-pretender/dafx-code/) | Code for "DAFX: Digital Audio Effects" by Udo Zölzer et al
 
+[audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from "The Audio Programming Book" by Boulanger / Lazzarini
 
+<!--
+## Sound
 ## Linguistics
+
+[dafx-projects](https://github.com/grt-pretender/dafx-projects/) | My implementations of concepts from "DAFX: Digital Audio Effects"
+
 
 [kana-me](https://github.com/grt-pretender/kana-me/) | Tool for memorizing Japanese Hiragana & Katakana
 
@@ -32,21 +37,17 @@ Here are some ideas to get you started:
 
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
 
-<!--
 
 [hangul-me](https://github.com/grt-pretender/hangul-me/) | Tool for memorizing Korean alphabet system
+[randizer](https://github.com/grt-pretender/randizer/) | Web tool for practicing improvisation
 
 ## My studies
 
 [all-karplus-strong](https://github.com/grt-pretender/all-karplus-strong/) | Making a sound of a hammered/plucked string / percussion
 [dsp-lyons](https://github.com/grt-pretender/dsp-lyons/) | Code for ''Understanding Digital Signal Processing'' by Richard Lyons
-[dafx-code](https://github.com/grt-pretender/dafx-code/) | Code for "DAFX: Digital Audio Effects" by Udo Zölzer
 
-[learn-thai](https://github.com/grt-pretender/learn-thai/) | CLI-tool for memorizing Thai alphabet
-[pd-ex](https://github.com/grt-pretender/pd-ex/) | Useful Pure Data Externals
-[dafx-projects](https://github.com/grt-pretender/dafx-projects/) | My implementations of concepts from "DAFX: Digital Audio Effects" 
+[pd-ex](https://github.com/grt-pretender/pd-ex/) | Useful Pure Data Externals 
 [farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Exercises from Andy Farnell's "Designing sound"
-[audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from "The Audio Programming Book", Boulanger / Lazzarini
 
 [reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 [exercism-ex](https://github.com/grt-pretender/exercism-ex/) | Solutions to Rust, C++ tracks
@@ -61,7 +62,6 @@ Here are some ideas to get you started:
 [vital-presets](https://github.com/grt-pretender/vital-presets/) | Presets for Vital synth
 [anki-thai](https://github.com/grt-pretender/anki-thai/) | Scripts for making Anki cards for Thai  
 [specky](https://github.com/grt-pretender/specky/) | Time & audio spectrum analyzer for sound design
-[randizer](https://github.com/grt-pretender/randizer/) | Web app for practicing improvisation
 [turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
 [keyword-classifier](https://github.com/grt-pretender/keyword-classifier) | Glossary generator (patent documentation) 
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
