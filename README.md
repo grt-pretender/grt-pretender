@@ -14,21 +14,20 @@ Here are some ideas to get you started:
 -->
 
 
-[jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Audio plugins for REAPER
+[jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Plugins for REAPER
+
+[jsfx-time](https://github.com/grt-pretender/jsfx-time/) Plugins for Musescore, Audacity
 
 [pure-data-sfx](https://github.com/grt-pretender/pure-data-sfx/) | Pure data patches
 
 [dafx-code](https://github.com/grt-pretender/dafx-code/) | Code from "DAFX: Digital Audio Effects" by Udo Zölzer et al
 
-[audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises for "The Audio Programming Book" by Boulanger / Lazzarini
-
 <!--
 ## Sound
 ## Linguistics
 
-[dafx-projects](https://github.com/grt-pretender/dafx-projects/) | My implementations of concepts from "DAFX: Digital Audio Effects"
 
-
+[audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises for "The Audio Programming Book" by Boulanger / Lazzarini
 [kana-me](https://github.com/grt-pretender/kana-me/) | Tool for memorizing Japanese Hiragana & Katakana
 
 [slow-german-ex](https://github.com/grt-pretender/slow-german-ex/) | Grammar exercises generated from Slow German podcast by Annik Rubens
