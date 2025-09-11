@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 [jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Plugins for REAPER
 
-[jsfx-time](https://github.com/grt-pretender/jsfx-time/) Plugins for Musescore, Audacity
+[musescore-plugins](https://github.com/grt-pretender/musescore-plugins/) Plugins for Musescore
 
 [pure-data-sfx](https://github.com/grt-pretender/pure-data-sfx/) | Pure data patches
 
