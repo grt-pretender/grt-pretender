@@ -14,13 +14,20 @@ Here are some ideas to get you started:
 -->
 
 
-[jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Plugins for REAPER
+[jsfx-time](https://github.com/grt-pretender/jsfx-time/) | My plugins for REAPER
+
+[vital-presets](https://github.com/grt-pretender/vital-presets/) | My presets for Vital synth
+
+
+
+[dafx-code](https://github.com/grt-pretender/dafx-code/) | Code from "DAFX: Digital Audio Effects" by Udo Zölzer et al
+
+<!--
 
 [musescore-plugins](https://github.com/grt-pretender/musescore-plugins/) Plugins for Musescore
 
 [pure-data-sfx](https://github.com/grt-pretender/pure-data-sfx/) | Pure data patches
 
-[dafx-code](https://github.com/grt-pretender/dafx-code/) | Code from "DAFX: Digital Audio Effects" by Udo Zölzer et al
 
 <!--
 ## Sound
