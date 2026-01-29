@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 [jsfx-time](https://github.com/grt-pretender/jsfx-time/) | My plugins for REAPER
 
-[vital-presets](https://github.com/grt-pretender/vital-presets/) | My presets for Vital synth
+[multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
 
-
+[kana-me](https://github.com/grt-pretender/kana-me/) | Tool for memorizing Japanese Hiragana & Katakana
 
 [dafx-code](https://github.com/grt-pretender/dafx-code/) | Code from "DAFX: Digital Audio Effects" by Udo Zölzer et al
 
@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
 
 [audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises for "The Audio Programming Book" by Boulanger / Lazzarini
-[kana-me](https://github.com/grt-pretender/kana-me/) | Tool for memorizing Japanese Hiragana & Katakana
 
 [slow-german-ex](https://github.com/grt-pretender/slow-german-ex/) | Grammar exercises generated from Slow German podcast by Annik Rubens
 
@@ -43,7 +42,7 @@ Here are some ideas to get you started:
 
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
 
-
+[vital-presets](https://github.com/grt-pretender/vital-presets/) | My presets for Vital synth
 [hangul-me](https://github.com/grt-pretender/hangul-me/) | Tool for memorizing Korean alphabet system
 [randizer](https://github.com/grt-pretender/randizer/) | Web tool for practicing improvisation
 
