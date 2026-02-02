@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 [jsfx-time](https://github.com/grt-pretender/jsfx-time/) | My plugins for REAPER
 
+[reaper-lua-scripts](https://github.com/grt-pretender/reaper-lua-scripts) | My lua scripts for Reaper
+
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
 
 [kana-me](https://github.com/grt-pretender/kana-me/) | Tool for memorizing Japanese Hiragana & Katakana
