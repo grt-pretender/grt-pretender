@@ -1,7 +1,6 @@
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grt-pretender&hide_progress=true)
 
-<!--
 ### Hi there 👋
 **grt-pretender/grt-pretender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -14,15 +13,19 @@ Here are some ideas to get you started:
 -->
 
 
-[jsfx-time](https://github.com/grt-pretender/jsfx-time/) | My plugins for REAPER
+[jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Plugins for REAPER
 
-[reaper-lua-scripts](https://github.com/grt-pretender/reaper-lua-scripts) | My lua scripts for Reaper
+[reaper-lua-scripts](https://github.com/grt-pretender/reaper-lua-scripts) | Atonal wavetable generator 
 
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
 
-[kana-me](https://github.com/grt-pretender/kana-me/) | Tool for memorizing Japanese Hiragana & Katakana
+[scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
+
+------
 
 [dafx-code](https://github.com/grt-pretender/dafx-code/) | Code from "DAFX: Digital Audio Effects" by Udo Zölzer et al
+
+[reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 
 <!--
 
@@ -30,11 +33,10 @@ Here are some ideas to get you started:
 
 [pure-data-sfx](https://github.com/grt-pretender/pure-data-sfx/) | Pure data patches
 
-
-<!--
 ## Sound
 ## Linguistics
 
+[kana-me](https://github.com/grt-pretender/kana-me/) | Tool for memorizing Japanese Hiragana & Katakana
 
 [audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises for "The Audio Programming Book" by Boulanger / Lazzarini
 
@@ -52,6 +54,7 @@ Here are some ideas to get you started:
 
 [all-karplus-strong](https://github.com/grt-pretender/all-karplus-strong/) | Making a sound of a hammered/plucked string / percussion
 [dsp-lyons](https://github.com/grt-pretender/dsp-lyons/) | Code for ''Understanding Digital Signal Processing'' by Richard Lyons
+[reaper-lua-scripts](https://github.com/grt-pretender/reaper-lua-scripts)
 
 [pd-ex](https://github.com/grt-pretender/pd-ex/) | Useful Pure Data Externals 
 [farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Exercises from Andy Farnell's "Designing sound"
