@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Plugins for REAPER
 
-[reaper-lua-scripts](https://github.com/grt-pretender/reaper-lua-scripts) | Atonal wavetable generator 
+[atona](https://github.com/grt-pretender/atona) | Atonal wavetable generator 
 
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
 
