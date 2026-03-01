@@ -21,11 +21,14 @@ Here are some ideas to get you started:
 
 [kana-me](https://github.com/grt-pretender/kana-me/) | Tool for memorizing Japanese Hiragana & Katakana
 
+-----
+
+[audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from "The Audio Programming Book" by Boulanger / Lazzarini
+
+[dafx-code](https://github.com/grt-pretender/dafx-code/) | Code from "DAFX: Digital Audio Effects" by Udo Zölzer et al
 
 <!--
 ------
-
-[dafx-code](https://github.com/grt-pretender/dafx-code/) | Code from "DAFX: Digital Audio Effects" by Udo Zölzer et al
 
 [reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 
@@ -38,18 +41,12 @@ Here are some ideas to get you started:
 ## Sound
 ## Linguistics
 
-[kana-me](https://github.com/grt-pretender/kana-me/) | Tool for memorizing Japanese Hiragana & Katakana
-
-[audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises for "The Audio Programming Book" by Boulanger / Lazzarini
-
 [slow-german-ex](https://github.com/grt-pretender/slow-german-ex/) | Grammar exercises generated from Slow German podcast by Annik Rubens
-
-[multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
 
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
 
 [vital-presets](https://github.com/grt-pretender/vital-presets/) | My presets for Vital synth
-[hangul-me](https://github.com/grt-pretender/hangul-me/) | Tool for memorizing Korean alphabet system
+
 [randizer](https://github.com/grt-pretender/randizer/) | Web tool for practicing improvisation
 
 ## My studies
@@ -61,7 +58,6 @@ Here are some ideas to get you started:
 [pd-ex](https://github.com/grt-pretender/pd-ex/) | Useful Pure Data Externals 
 [farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Exercises from Andy Farnell's "Designing sound"
 
-[reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 [exercism-ex](https://github.com/grt-pretender/exercism-ex/) | Solutions to Rust, C++ tracks
 [reading-sicp](https://github.com/grt-pretender/reading-sicp/) | Solutions to some exercises from "Structure and Interpretation of Computer Programs".
 [messier-rust](https://github.com/grt-pretender/messier-rust/) | Exercises from Ric Messier's "Beginning Rust Programming"
@@ -71,7 +67,6 @@ Here are some ideas to get you started:
 
 ## My projects
 
-[vital-presets](https://github.com/grt-pretender/vital-presets/) | Presets for Vital synth
 [anki-thai](https://github.com/grt-pretender/anki-thai/) | Scripts for making Anki cards for Thai  
 [specky](https://github.com/grt-pretender/specky/) | Time & audio spectrum analyzer for sound design
 [turkish-numbers](https://github.com/grt-pretender/turkish-numbers/) | CLI-tool for memorizing Turkish numbers in Rust
