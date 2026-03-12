@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grt-pretender)](https://github.com/grt-pretender/github-readme-stats)
 
 [jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Plugins for REAPER
 
@@ -27,7 +28,6 @@ Here are some ideas to get you started:
 
 [audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from "The Audio Programming Book" by Boulanger / Lazzarini
 
-[dafx-code](https://github.com/grt-pretender/dafx-code/) | Code from "DAFX: Digital Audio Effects" by Udo Zölzer et al
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
 
