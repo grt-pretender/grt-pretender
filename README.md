@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 [dafx-code](https://github.com/grt-pretender/dafx-code/) | Code from "DAFX: Digital Audio Effects" by Udo Zölzer et al
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
+
 <!--
 ------
 
