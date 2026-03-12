@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 -----
 
+[reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
+
 [audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from "The Audio Programming Book" by Boulanger / Lazzarini
 
 [dafx-code](https://github.com/grt-pretender/dafx-code/) | Code from "DAFX: Digital Audio Effects" by Udo Zölzer et al
@@ -30,7 +32,6 @@ Here are some ideas to get you started:
 <!--
 ------
 
-[reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
 
