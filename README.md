@@ -10,9 +10,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grt-pretender)](https://github.com/grt-pretender/github-readme-stats)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grt-pretender)](https://github.com/grt-pretender/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grt-pretender&hide_progress=true)
 
 [jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Plugins for REAPER
 
