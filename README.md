@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grt-pretender&hide_progress=true)
-
 [jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Plugins for REAPER
 
 [atona](https://github.com/grt-pretender/atona) | Atonal wavetable generator 
