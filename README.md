@@ -13,15 +13,11 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grt-pretender)](https://github.com/grt-pretender/github-readme-stats)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grt-pretender&hide_progress=true)
-
 [jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Plugins for REAPER
 
 [atona](https://github.com/grt-pretender/atona) | Atonal wavetable generator 
 
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
-
-[kana-me](https://github.com/grt-pretender/kana-me/) | Tool for memorizing Japanese Hiragana & Katakana
 
 -----
 
@@ -38,6 +34,7 @@ Here are some ideas to get you started:
 ------
 
 ## My projects
+[kana-me](https://github.com/grt-pretender/kana-me/) | Tool for memorizing Japanese Hiragana & Katakana
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
 [pure-data-sfx](https://github.com/grt-pretender/pure-data-sfx/) | Pure data patches
 [vital-presets](https://github.com/grt-pretender/vital-presets/) | My presets for Vital synth
