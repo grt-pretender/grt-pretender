@@ -21,15 +21,17 @@ Here are some ideas to get you started:
 
 [jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Plugins for REAPER
 
-[atona](https://github.com/grt-pretender/atona) | Atonal wavetable generator 
+[atona](https://github.com/grt-pretender/atona) | Atonal wavetable generator
+
+[audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from The Audio Programming Book
+
+-------
 
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
 
------
+[korean-sent-analyzer](https://github.com/grt-pretender/korean-sent-analyzer/) | Script for Korean sentence parsing and creating grammar exercises
 
-[reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 
-[audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from "The Audio Programming Book" by Boulanger / Lazzarini
 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
@@ -51,6 +53,7 @@ Here are some ideas to get you started:
 [specky](https://github.com/grt-pretender/specky/) | Time & audio spectrum analyzer for sound design
 
 ## My studies
+[reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 [farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Exercises from Andy Farnell's "Designing sound"
 [dsp-lyons](https://github.com/grt-pretender/dsp-lyons/) | Code for ''Understanding Digital Signal Processing'' by Richard Lyons
 [exercism-ex](https://github.com/grt-pretender/exercism-ex/) | Solutions to Rust, C++ tracks
