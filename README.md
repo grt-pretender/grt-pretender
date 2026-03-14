@@ -19,20 +19,20 @@ Here are some ideas to get you started:
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grt-pretender&hide_progress=true&hide=matlab)
 
+## Audio
 [jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Plugins for REAPER
 
 [atona](https://github.com/grt-pretender/atona) | Atonal wavetable generator
 
-[audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from The Audio Programming Book
-
--------
-
+## Langs
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
 
 [korean-sent-analyzer](https://github.com/grt-pretender/korean-sent-analyzer/) | Script for Korean sentence parsing and creating grammar exercises
 
+## My studies
+[reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 
-
+[audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from The Audio Programming Book
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
 
