@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 [atona](https://github.com/grt-pretender/atona) | Atonal wavetable generator
 
+[randizer](https://github.com/grt-pretender/randizer/) | CLI tool for practicing improvisation
+
 ## Langs
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
 
