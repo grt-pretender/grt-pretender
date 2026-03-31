@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 [randizer](https://github.com/grt-pretender/randizer/) | CLI tool for practicing improvisation
 
+[midi-me](https://github.com/grt-pretender/midi-me/) | Simple MIDI, note, frequency conversion 
+
 ## Langs
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
 
