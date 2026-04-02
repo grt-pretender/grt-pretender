@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 ## My studies
 [reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 
-[audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from The Audio Programming Book
-
 [![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
 
 
@@ -48,14 +46,14 @@ Here are some ideas to get you started:
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
 [pure-data-sfx](https://github.com/grt-pretender/pure-data-sfx/) | Pure data patches
 [vital-presets](https://github.com/grt-pretender/vital-presets/) | My presets for Vital synth
-[randizer](https://github.com/grt-pretender/randizer/) | Web tool for practicing improvisation
+[randizer](https://github.com/grt-pretender/randizer/) | Web tool for practicing improvisatio
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
 [genuary-2021](https://github.com/grt-pretender/genuary-2021/) | Entries for generative art challenge
 [pd-ex](https://github.com/grt-pretender/pd-ex/) | Useful Pure Data Externals 
 [specky](https://github.com/grt-pretender/specky/) | Time & audio spectrum analyzer for sound design
 
 ## My studies
-[reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
+[audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from The Audio Programming Book
 [farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Exercises from Andy Farnell's "Designing sound"
 [dsp-lyons](https://github.com/grt-pretender/dsp-lyons/) | Code for ''Understanding Digital Signal Processing'' by Richard Lyons
 [exercism-ex](https://github.com/grt-pretender/exercism-ex/) | Solutions to Rust, C++ tracks
