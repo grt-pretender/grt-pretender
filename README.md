@@ -26,11 +26,12 @@ Here are some ideas to get you started:
 
 [midi-me](https://github.com/grt-pretender/midi-me/) | Simple MIDI, note, frequency conversion 
 
+<!--
 ## Langs
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
 
 [korean-sent-analyzer](https://github.com/grt-pretender/korean-sent-analyzer/) | Script for Korean sentence parsing and creating grammar exercises
-
+-->
 ## My studies
 [reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 
