@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## My studies
 [reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 
-[nand2tetris-pt1](https://github.com/grt-pretender/nand2tetris-pt1) | Solutions to Nand2Tetris course part 1
+[stm32-journey](https://github.com/grt-pretender/stm32-journey) | My study projects to learn STM32 Microcontroller programming
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
 
@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 
 ## My studies
 [audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from The Audio Programming Book
+[nand2tetris-pt1](https://github.com/grt-pretender/nand2tetris-pt1) | Solutions to Nand2Tetris course part 1
 [farnell-designing-sound](https://github.com/grt-pretender/farnell-designing-sound/) | Exercises from Andy Farnell's "Designing sound"
 [dsp-lyons](https://github.com/grt-pretender/dsp-lyons/) | Code for ''Understanding Digital Signal Processing'' by Richard Lyons
 [exercism-ex](https://github.com/grt-pretender/exercism-ex/) | Solutions to Rust, C++ tracks
