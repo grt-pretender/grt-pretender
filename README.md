@@ -26,16 +26,16 @@ Here are some ideas to get you started:
 
 [midi-me](https://github.com/grt-pretender/midi-me/) | Simple MIDI, note, frequency conversion 
 
-<!--
 ## Langs
-[multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
+[taiji-lang](https://github.com/grt-pretender/taiji-lang/) | CLI quiz game for Learning Chinese
 
-[korean-sent-analyzer](https://github.com/grt-pretender/korean-sent-analyzer/) | Script for Korean sentence parsing and creating grammar exercises
--->
+[korean-sent-analyzer](https://github.com/grt-pretender/korean-sent-analyzer/) | Script for Korean - sentence parsing and creating grammar exercises
+
+
 ## My studies
 [reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 
-[stm32-journey](https://github.com/grt-pretender/stm32-journey) | My study projects to learn STM32 Microcontroller programming
+[stm32-journey](https://github.com/grt-pretender/stm32-journey) | My study projects for STM32 Microcontroller
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
 
@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 <!--
 ------
 
+## Lang
+[multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
 ## My projects
 [kana-me](https://github.com/grt-pretender/kana-me/) | Tool for memorizing Japanese Hiragana & Katakana
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
