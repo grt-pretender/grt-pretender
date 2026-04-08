@@ -20,11 +20,7 @@ Here are some ideas to get you started:
 ## Audio
 [jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Plugins for REAPER
 
-[atona](https://github.com/grt-pretender/atona) | Atonal wavetable generator
-
-[randizer](https://github.com/grt-pretender/randizer/) | CLI tool for practicing improvisation
-
-[midi-me](https://github.com/grt-pretender/midi-me/) | Simple MIDI, note, frequency conversion 
+[atona](https://github.com/grt-pretender/atona) | Atonal wavetable generator 
 
 ## Langs
 [taiji-lang](https://github.com/grt-pretender/taiji-lang/) | CLI quiz game for Learning Chinese
@@ -46,12 +42,13 @@ Here are some ideas to get you started:
 
 ## Lang
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
+
 ## My projects
-[kana-me](https://github.com/grt-pretender/kana-me/) | Tool for memorizing Japanese Hiragana & Katakana
+[randizer](https://github.com/grt-pretender/randizer/) | CLI tool for practicing improvisation
+[midi-me](https://github.com/grt-pretender/midi-me/) | Simple MIDI, note, frequency conversion
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
 [pure-data-sfx](https://github.com/grt-pretender/pure-data-sfx/) | Pure data patches
 [vital-presets](https://github.com/grt-pretender/vital-presets/) | My presets for Vital synth
-[randizer](https://github.com/grt-pretender/randizer/) | Web tool for practicing improvisatio
 [sport-scraper](https://github.com/grt-pretender/sport-scraper) | Jupyter Notebook for exploring sport TV channel playlist
 [genuary-2021](https://github.com/grt-pretender/genuary-2021/) | Entries for generative art challenge
 [pd-ex](https://github.com/grt-pretender/pd-ex/) | Useful Pure Data Externals 
