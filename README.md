@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 [stm32-journey](https://github.com/grt-pretender/stm32-journey) | My study projects for STM32 Microcontroller
 
+![codewars-stats](https://www.codewars.com/users/grt-pretender/badges/large) 
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
 
 
