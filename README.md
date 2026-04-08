@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grt-pretender&hide_progress=true) 
 
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grt-pretender&hide_progress=true)] 
 
 ## Audio
 [jsfx-time](https://github.com/grt-pretender/jsfx-time/) | Plugins for REAPER
