@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 ## My studies
 [reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 
-[stm32-journey](https://github.com/grt-pretender/stm32-journey) | My study projects for STM32 Microcontroller
-
 [codewars-jam](https://github.com/grt-pretender/codewars-jam/) | Solutions mainly in Python, C++, Go
 
 ![codewars-stats](https://www.codewars.com/users/grt-pretender/badges/large) 
@@ -48,6 +46,7 @@ Here are some ideas to get you started:
 [multitran-parser](https://github.com/grt-pretender/multitran-parser/) | Tool for translators/editors - Multitran queries
 
 ## My projects
+[stm32-journey](https://github.com/grt-pretender/stm32-journey) | My study projects for STM32 Microcontroller
 [randizer](https://github.com/grt-pretender/randizer/) | CLI tool for practicing improvisation
 [midi-me](https://github.com/grt-pretender/midi-me/) | Simple MIDI, note, frequency conversion
 [scrambling-jam](https://github.com/grt-pretender/scrambling-jam/) | Tool for translators/editors - Generating texts with mistakes
