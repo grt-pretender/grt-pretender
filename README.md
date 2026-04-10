@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## Langs
 [taiji-lang](https://github.com/grt-pretender/taiji-lang/) | CLI quiz game for Learning Chinese
 
-[turkish-sent-analyzer](https://github.com/grt-pretender/turkish-sent-analyzer/) | Script for Turkish - sentence parsing and creating grammar exercises
+[turk-sent-analyzer](https://github.com/grt-pretender/turk-sent-analyzer/) | Script for Turkish sentence parsing and creating grammar exercises
 
 
 ## My studies
