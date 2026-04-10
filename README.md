@@ -27,13 +27,15 @@ Here are some ideas to get you started:
 ## Langs
 [taiji-lang](https://github.com/grt-pretender/taiji-lang/) | CLI quiz game for Learning Chinese
 
-[korean-sent-analyzer](https://github.com/grt-pretender/korean-sent-analyzer/) | Script for Korean - sentence parsing and creating grammar exercises
+[turkish-sent-analyzer](https://github.com/grt-pretender/turkish-sent-analyzer/) | Script for Turkish - sentence parsing and creating grammar exercises
 
 
 ## My studies
 [reading-kernighan-ritchie](https://github.com/grt-pretender/reading-kernighan-ritchie/) | Solutions to exercises
 
 [stm32-journey](https://github.com/grt-pretender/stm32-journey) | My study projects for STM32 Microcontroller
+
+[codewars-jam](https://github.com/grt-pretender/codewars-jam/) | Solutions mainly in Python, C++, Go
 
 ![codewars-stats](https://www.codewars.com/users/grt-pretender/badges/large) 
 
