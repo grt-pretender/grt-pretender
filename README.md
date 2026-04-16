@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [atona](https://github.com/grt-pretender/atona) | Atonal wavetable generator 
 
 ## Langs
-[taiji-lang](https://github.com/grt-pretender/taiji-lang/) | CLI quiz game for Learning Chinese
+[geo-me](https://github.com/grt-pretender/geo-me/) | CLI quiz game for Learning Georgian alphabet
 
 [turk-sent-analyzer](https://github.com/grt-pretender/turk-sent-analyzer/) | Script for Turkish sentence parsing and creating grammar exercises
 
