@@ -27,16 +27,13 @@ Here are some ideas to get you started:
 
 [atona](https://github.com/grt-pretender/atona) | Atonal wavetable generator 
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
+
+<!--
 ## Langs
 [chinese-me](https://github.com/grt-pretender/chinese-me/) | CLI quiz game for Learning Chinese 
 
 [korean-sent-analyzer](https://github.com/grt-pretender/korean-sent-analyzer/) | Script for Korean sentence parsing & creating exercises
-
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
-
-<!--
-------
 
 
 ## Lang
