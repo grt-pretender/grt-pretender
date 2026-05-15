@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 
 [atona](https://github.com/grt-pretender/atona) | Atonal wavetable generator 
 
+[vital-presets](https://github.com/grt-pretender/vital-presets/) | Custom presets for Vital synth
+
+[midi-me](https://github.com/grt-pretender/midi-me/) | Simple MIDI, note, frequency conversion in Lua
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
 
 <!--
