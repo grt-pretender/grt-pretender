@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [midi-me](https://github.com/grt-pretender/midi-me/) | Simple MIDI, note, frequency conversion in Lua
 
 ## Langs
-[kana-me](https://github.com/grt-pretender/kana-me/) | CLI quiz game for Learning Japanese Hiragana/Katakana
+[kana-me](https://github.com/grt-pretender/kana-me/) | CLI quiz game for Learning Japanese Hiragana/Katakana in Go
 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
