@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 ## Audio
-[jsfx-time](https://github.com/grt-pretender/jsfx-time/) | My plugins for REAPER
+[new-reaper-plugins](https://github.com/grt-pretender/new-reaper-plugins/) | My plugins for REAPER
 
 [atona](https://github.com/grt-pretender/atona) | Atonal wavetable generator 
 
@@ -31,10 +31,11 @@ Here are some ideas to get you started:
 
 [midi-me](https://github.com/grt-pretender/midi-me/) | Simple MIDI, note, frequency conversion in Lua
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
-
 ## Langs
 [kana-me](https://github.com/grt-pretender/kana-me/) | CLI quiz game for Learning Japanese Hiragana/Katakana
+
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
 
 <!--
 ## Langs
