@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 ## Audio
-[new-reaper-plugins](https://github.com/grt-pretender/new-reaper-plugins/) | My plugins for REAPER
+[reaper-daw-plugins](https://github.com/grt-pretender/reaper-daw-plugins/) | My plugins for REAPER
 
 [atona](https://github.com/grt-pretender/atona) | Atonal wavetable generator 
 
