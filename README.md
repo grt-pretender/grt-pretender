@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
 
+## Langs
+[kana-me](https://github.com/grt-pretender/kana-me/) | CLI quiz game for Learning Japanese Hiragana/Katakana
+
 <!--
 ## Langs
 [chinese-me](https://github.com/grt-pretender/chinese-me/) | CLI quiz game for Learning Chinese 
