@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ## Langs
 [kana-me](https://github.com/grt-pretender/kana-me/) | CLI quiz game for Learning Japanese Hiragana/Katakana in Go
 
+![codewars-stats](https://www.codewars.com/users/grt-pretender/badges/large)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
 
