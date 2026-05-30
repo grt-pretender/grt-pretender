@@ -39,9 +39,8 @@ Here are some ideas to get you started:
 
 ![codewars-stats](https://www.codewars.com/users/grt-pretender/badges/large)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
-
 <!--
+[![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
 ## Langs
 [chinese-me](https://github.com/grt-pretender/chinese-me/) | CLI quiz game for Learning Chinese 
 
