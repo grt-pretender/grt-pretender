@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [vital-presets](https://github.com/grt-pretender/vital-presets/) | Custom presets for Vital synth
 
-[midi-me](https://github.com/grt-pretender/midi-me/) | Simple MIDI, note, frequency conversion + QWERTY keyboard numbers
+[note2freq2midi](https://github.com/grt-pretender/note2freq2midi/) | Simple note, frequency, MIDI conversion + QWERTY keyboard numbers
 
 ## Langs
 [kana-me](https://github.com/grt-pretender/kana-me/) | CLI quiz game for Learning Japanese Hiragana/Katakana in Go
