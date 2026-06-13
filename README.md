@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 ## Other
 [codewars-jam](https://github.com/grt-pretender/codewars-jam/) | Solutions in C++, Go, Python 
 
+[accelerated-cpp-solutions](https://github.com/grt-pretender/accelerated-cpp-solutions/) | Solutions for the exercises from "Accelerated C++" 
+
 ![codewars-stats](https://www.codewars.com/users/grt-pretender/badges/large)
 
 <!--
