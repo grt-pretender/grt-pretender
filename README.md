@@ -20,13 +20,21 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grt-pretender&hide_progress=true) 
 
--->
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=go&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=c&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=go)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=c)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript)](https://github.com/harish-sethuraman/readme-components)
 
+-->
 ## Audio
 [reaper-daw-plugins](https://github.com/grt-pretender/reaper-daw-plugins/) | My plugins for REAPER
 
