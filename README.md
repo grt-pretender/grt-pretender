@@ -41,7 +41,9 @@ Here are some ideas to get you started:
 ## Audio
 [reaper-daw-plugins](https://github.com/grt-pretender/reaper-daw-plugins/) | My plugins for REAPER
 
-[atona](https://github.com/grt-pretender/atona) | Atonal wavetable generator 
+[atona](https://github.com/grt-pretender/atona) | Atonal wavetable generator
+
+<!--
 
 [vital-presets](https://github.com/grt-pretender/vital-presets/) | Custom presets for Vital synth
 
@@ -50,6 +52,7 @@ Here are some ideas to get you started:
 ## Langs
 [kana-me](https://github.com/grt-pretender/kana-me/) | CLI quiz game for Learning Japanese Hiragana/Katakana in Go
 
+-->
 ## Other
 [codewars-jam](https://github.com/grt-pretender/codewars-jam/) | Solutions in C++, Go, Python 
 
