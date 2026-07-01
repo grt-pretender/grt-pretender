@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grt-pretender&hide_progress=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grt-pretender&hide_progress=true&hide=processing) 
 
 ## Audio
 [reaper-daw-plugins](https://github.com/grt-pretender/reaper-daw-plugins/) | My plugins for REAPER
