@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 [atona](https://github.com/grt-pretender/atona) | Atonal wavetable generator
 
-[audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from The Audio Programming Book
+[audio-prog](https://github.com/grt-pretender/audio-prog/) | Solutions for the exercises from The Audio Programming Book
 
 <!--
 
