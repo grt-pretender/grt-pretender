@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 
 [atona](https://github.com/grt-pretender/atona) | Atonal wavetable generator
 
+[audio-prog](https://github.com/grt-pretender/audio-prog/) | Exercises from The Audio Programming Book
+
 <!--
 
 [vital-presets](https://github.com/grt-pretender/vital-presets/) | Custom presets for Vital synth
