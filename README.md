@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 
 [atona](https://github.com/grt-pretender/atona) | Atonal wavetable generator
 
-[audio-prog](https://github.com/grt-pretender/audio-prog/) | Solutions for the exercises from The Audio Programming Book
-
 <!--
+
+[audio-prog](https://github.com/grt-pretender/audio-prog/) | Solutions for the exercises from The Audio Programming Book
 
 [vital-presets](https://github.com/grt-pretender/vital-presets/) | Custom presets for Vital synth
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 -->
 ## Other
-[codewars-jam](https://github.com/grt-pretender/codewars-jam/) | Solutions in C++, Go, Python 
+[codewars-jam](https://github.com/grt-pretender/codewars-jam/) | Solutions in Rust, C++, Python 
 
 [accelerated-cpp-solutions](https://github.com/grt-pretender/accelerated-cpp-solutions/) | Solutions for the exercises from "Accelerated C++" 
 
