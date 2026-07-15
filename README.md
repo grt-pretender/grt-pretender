@@ -33,10 +33,9 @@ Here are some ideas to get you started:
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=c)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript)](https://github.com/harish-sethuraman/readme-components)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grt-pretender&hide_progress=true) 
 
 -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grt-pretender&hide_progress=true) 
 
 ## Audio
 [reaper-daw-plugins](https://github.com/grt-pretender/reaper-daw-plugins/) | My plugins for REAPER
