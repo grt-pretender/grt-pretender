@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 [![Leetcode Stats](https://leetcard.jacoblin.cool/grt-pretender)](https://leetcode.com/grt-pretender)
 ![codewars-stats](https://www.codewars.com/users/grt-pretender/badges/large) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grt-pretender&hide_progress=true) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grt-pretender&hide_progress=true) 
-
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=go&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=c&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
