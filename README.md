@@ -53,9 +53,8 @@ Here are some ideas to get you started:
 
 -->
 ## Other
-[accelerated-cpp-solutions](https://github.com/grt-pretender/accelerated-cpp-solutions/) | Solutions for the exercises from "Accelerated C++"
 
-[codewars-jam](https://github.com/grt-pretender/codewars-jam/) | Solutions in Rust, C++, Go, Python 
+[codewars-jam](https://github.com/grt-pretender/codewars-jam/) | Solutions mainly in Rust, Go, Python 
 
 ![codewars-stats](https://www.codewars.com/users/grt-pretender/badges/large)
 
